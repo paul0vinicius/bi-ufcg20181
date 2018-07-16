@@ -1,0 +1,26 @@
+CountryKey;CountryName;CountryCode;CountryCapital;Population;Subdivision;ContinentName
+1;Austria;AT;Vienna;8316487;"Austria is divided into nine Bundesländer, or simply Länder (states; sing. Land).";Europe
+2;Belgium;BE;Bruxelles;10584534;"Belgium is divided into ten provinces (Flemish: provincies) and one capital region (Flemish: hoofdstedelijke gewest;  French: région capitale).";Europe
+3;Denmark;DK;Copenhagen;5475791;"Denmark is divided into five regioner (regions;  singular: region) and 98 municipalities (Danish, kommuner).";Europe
+4;Finland;FI;Helsinki;5311891;Finland is divided into five läänit (sing. lääni, Swedish län: provinces) and one itsehallinnollinen maakunta (autonomous province), namely Åland. ;Europe
+5;France;FR;Paris;64473140;France, in Europe and adjacent islands (Corsica), is divided into 96 départements (departments). It also has a number of possessions, some of which are classified as départements d'outre-mer (overseas departments). ;Europe
+6;Germany;DE;Berlin;82210000;Germany is divided into sixteen Länder (sing. Land: state).;Europe
+7;Ireland;IE;Dublin;6000000;Ireland is divided into 26 (traditional) counties.;Europe
+8;Italy;IT;Roma;59536507;Italy is divided into 110 province (sing. provincia: provinces).;Europe
+9;Netherlands;NL;Amsterdam;16408557;The Netherlands is divided into twelve provincies (provinces).;Europe
+10;Norway;NO;Oslo;4752735;Norway is divided into 19 fylker (sing. fylke: counties).;Europe
+11;Poland;PL;Warsaw;38518241;Poland is divided into sixteen wojewodztwa (voivodships).;Europe
+12;Portugal;PT;Lisbon;10623032;Portugal is divided into eighteen distritos (districts) and two regiões autônomas (autonomous regions).;Europe
+13;Spain;ES;Madrid;45200737;Spain is politically organized into 17 Autonomous Communities (comunidades autónomas) and 2 autonomous cities (ciudades autónomas) - Ceuta and Melilla. Administratively Spain also comprises fifty provinces.;Europe
+14;Sweden;SE;Stockholm;91962274;Sweden is divided into 21 län (counties).;Europe
+15;Switzerland;CH;Bern;7591400;Switzerland is divided into 26 cantons (French or English), kantone (German), cantoni (Italian), chantuns (Romansh).;Europe
+16;United Kingdom;UK;London;60587300;Various;Europe
+17;Canada;CA;Ottawa;33293000;Canada is divided into ten provinces and three territories (French: territoires).;North America
+18;Mexico;MX;Mexico D.F.;108700891;Mexico is divided into 31 estados (states) and one distrito federal (federal district).;North America
+19;United States;USA;Washington D.C.;304358000;The United States is divided into fifty states and one federal district.;North America
+20;Australia;AU;Canberra;21310000;Australia is divided into six states and four territories.;Pacific
+21;Japan;JP;Tokyo;127433494;Japan is divided into 43 ken (prefectures), one to (metropolis - Tokyo), one do (Area - Hokkaido), and two fu (urban prefectures - Kyoto and Osaka). The four words are combined in one, todofuken, to denote a division of any type.;Pacific
+22;Singapore;SG;Singapore;4588600; The small physical size of Singapore does not justify the creation of national subdivisions in the form of provinces, states, and other national political divisions found in larger countries;Pacific
+23;Argentina;AR;Buenos Aires;40677348;Argentina is divided into 23 provincias (provinces) and a distrito federal (federal district).;South America
+24;Brazil;BR;Brasilia;186757608;Brazil is divided into 26 estados (states) and one distrito federal (federal district).;South America
+25;Venezuela;VE;Caracas;28199822;Venezuela is divided into 23 estados (states), one dependencias federales (federal dependencies), and one distrito capital (capital district).;South America

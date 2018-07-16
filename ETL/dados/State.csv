@@ -1,0 +1,968 @@
+StateKey;StateName;EnglishStateName;StateType;StateCode;StateCapital;RegionName;RegionCode;CountryName;ContinentName
+7;Burgenland;NULL;state;BU;Eisenstadt;NULL;NULL;Austria;Europe
+8;Kärnten;Carinthia;state;KA;Klagenfurt;NULL;NULL;Austria;Europe
+9;Niederösterreich;Lower Austria;state;NO;St. Pölten;NULL;NULL;Austria;Europe
+10;Oberösterreich;Upper Austria;state;OO;Linz;NULL;NULL;Austria;Europe
+11;Salzburg;NULL;state;SZ;Salzburg;NULL;NULL;Austria;Europe
+12;Steiermark;Styria;state;ST;Graz;NULL;NULL;Austria;Europe
+13;Tirol;Tyrol;state;TR;Innsbruck;NULL;NULL;Austria;Europe
+14;Vorarlberg;NULL;state;VO;Bregenz;NULL;NULL;Austria;Europe
+15;Wien;Vienna;state;WI;Vienna;NULL;NULL;Austria;Europe
+16;Antwerp;NULL;province;AN;Antwerp;Vlaanderen ;NULL;Belgium;Europe
+17;Limburg;NULL;province;LI;Hasselt;Vlaanderen ;NULL;Belgium;Europe
+18;Vlaams Brabant;Flemish Brabant;province;VB;Leuven;Vlaanderen ;NULL;Belgium;Europe
+19;Oost-Vlaanderen;East Flanders;province;OV;Leuven;Vlaanderen ;NULL;Belgium;Europe
+20;West-Vlaanderen;West Flanders;province;WV;Brugge;Vlaanderen ;NULL;Belgium;Europe
+21;Bruxelles;Brussels;capital region;BU;Bruxelles;Bruxelles;NULL;Belgium;Europe
+22;Hainaut;NULL;province;HT;Mons;Wallonie;NULL;Belgium;Europe
+23;Brabant wallon;Walloon Brabant;province;BW;Wavre;Wallonie;NULL;Belgium;Europe
+24;Namur;NULL;province;NA;Namur;Wallonie;NULL;Belgium;Europe
+25;Liège;NULL;province;LG;Liège;Wallonie;NULL;Belgium;Europe
+26;Luxembourg;NULL;province;LX;Arlon;Wallonie;NULL;Belgium;Europe
+27;Aabenraa;NULL;municipality;AA;Aabenraa;Syddanmark;SD;Denmark;Europe
+28;Aalborg;NULL;municipality;AA;Aalborg;Nordjylland;ND;Denmark;Europe
+29;Århus;NULL;municipality;AR;Århus;Midtjylland;MJ;Denmark;Europe
+30;Ærø;NULL;municipality;AE;Ærø;Syddanmark;SD;Denmark;Europe
+31;Albertslund;NULL;municipality;AB;Albertslund;Hovedstaden;HS;Denmark;Europe
+32;Allerød;NULL;municipality;AL;Allerød;Hovedstaden;HS;Denmark;Europe
+33;Assens;NULL;municipality;AS;Assens;Syddanmark;SD;Denmark;Europe
+34;Ballerup;NULL;municipality;BA;Ballerup;Hovedstaden;HS;Denmark;Europe
+35;Billund;NULL;municipality;BI;Billund;Syddanmark;SD;Denmark;Europe
+36;Bogense;NULL;municipality;BO;Bogense;Syddanmark;SD;Denmark;Europe
+37;Bornholms;NULL;municipality;BO;Bornholms;Hovedstaden;HS;Denmark;Europe
+38;Brøndby;NULL;municipality;BR;Brøndby;Hovedstaden;HS;Denmark;Europe
+39;Brønderslev;NULL;municipality;BD;Brønderslev;Nordjylland;ND;Denmark;Europe
+40;Christiansø;NULL;municipality;CH;Christiansø;Hovedstaden;HS;Denmark;Europe
+41;Dragør;NULL;municipality;DR;Dragør;Hovedstaden;HS;Denmark;Europe
+42;Egedal;NULL;municipality;EG;Egedal;Hovedstaden;HS;Denmark;Europe
+43;Esbjerg;NULL;municipality;ES;Esbjerg;Syddanmark;SD;Denmark;Europe
+44;Fåborg-Midtfyn;NULL;municipality;FM;Fåborg-Midtfyn;Syddanmark;SD;Denmark;Europe
+45;Fanø;NULL;municipality;FA;Fanø;Syddanmark;SD;Denmark;Europe
+46;Favrskov;NULL;municipality;FA;Favrskov;Midtjylland;MJ;Denmark;Europe
+47;Faxe;NULL;municipality;FA;Faxe;Sjælland;SL;Denmark;Europe
+48;Fredensborg;NULL;municipality;FN;Fredensborg;Hovedstaden;HS;Denmark;Europe
+49;Fredericia;NULL;municipality;FR;Fredericia;Syddanmark;SD;Denmark;Europe
+50;Frederiksberg;NULL;municipality;FB;Frederiksberg;Hovedstaden;HS;Denmark;Europe
+51;Frederikshavn;NULL;municipality;FR;Frederikshavn;Nordjylland;ND;Denmark;Europe
+52;Frederikssund;NULL;municipality;FS;Frederikssund;Hovedstaden;HS;Denmark;Europe
+53;Frederiksværk-Hundested;NULL;municipality;FH;Frederiksværk-Hundested;Hovedstaden;HS;Denmark;Europe
+54;Furesø;NULL;municipality;FU;Furesø;Hovedstaden;HS;Denmark;Europe
+55;Gentofte;NULL;municipality;GE;Gentofte;Hovedstaden;HS;Denmark;Europe
+56;Gladsaxe;NULL;municipality;GX;Gladsaxe;Hovedstaden;HS;Denmark;Europe
+57;Glostrup;NULL;municipality;GP;Glostrup;Hovedstaden;HS;Denmark;Europe
+58;Greve;NULL;municipality;GR;Greve;Sjælland;SL;Denmark;Europe
+59;Gribskov;NULL;municipality;GR;Gribskov;Hovedstaden;HS;Denmark;Europe
+60;Guldborgsund;NULL;municipality;GU;Guldborgsund;Sjælland;SL;Denmark;Europe
+61;Haderslev;NULL;municipality;HA;Haderslev;Syddanmark;SD;Denmark;Europe
+62;Hedensted;NULL;municipality;HD;Hedensted;Midtjylland;MJ;Denmark;Europe
+63;Helsingør;NULL;municipality;HG;Helsingør;Hovedstaden;HS;Denmark;Europe
+64;Herlev;NULL;municipality;HV;Herlev;Hovedstaden;HS;Denmark;Europe
+65;Herning;NULL;municipality;HG;Herning;Midtjylland;MJ;Denmark;Europe
+66;Hillerød;NULL;municipality;HI;Hillerød;Hovedstaden;HS;Denmark;Europe
+67;Hjørring;NULL;municipality;HJ;Hjørring;Nordjylland;ND;Denmark;Europe
+68;Høje-Taastrup;NULL;municipality;HT;Høje-Taastrup;Hovedstaden;HS;Denmark;Europe
+69;Holbæk;NULL;municipality;HO;Holbæk;Sjælland;SL;Denmark;Europe
+70;Holstebro;NULL;municipality;HB;Holstebro;Midtjylland;MJ;Denmark;Europe
+71;Horsens;NULL;municipality;HS;Horsens;Midtjylland;MJ;Denmark;Europe
+72;Hørsholm;NULL;municipality;HO;Hørsholm;Hovedstaden;HS;Denmark;Europe
+73;Hvidovre;NULL;municipality;HD;Hvidovre;Hovedstaden;HS;Denmark;Europe
+74;Ikast-Brande;NULL;municipality;IB;Ikast-Brande;Midtjylland;MJ;Denmark;Europe
+75;Ishøj;NULL;municipality;IS;Ishøj;Hovedstaden;HS;Denmark;Europe
+76;Jammerbugt;NULL;municipality;JA;Jammerbugt;Nordjylland;ND;Denmark;Europe
+77;Kalundborg;NULL;municipality;KA;Kalundborg;Sjælland;SL;Denmark;Europe
+78;Kerteminde;NULL;municipality;KE;Kerteminde;Syddanmark;SD;Denmark;Europe
+79;Københavns;Kobenhavn;municipality;KO;Københavns;Hovedstaden;HS;Denmark;Europe
+80;Køge;NULL;municipality;KO;Køge;Sjælland;SL;Denmark;Europe
+81;Kolding;NULL;municipality;KO;Kolding;Syddanmark;SD;Denmark;Europe
+82;Læsø;NULL;municipality;LA;Læsø;Nordjylland;ND;Denmark;Europe
+83;Langeland;NULL;municipality;LA;Langeland;Syddanmark;SD;Denmark;Europe
+84;Lejre;NULL;municipality;LE;Lejre;Sjælland;SL;Denmark;Europe
+85;Lemvig;NULL;municipality;LE;Lemvig;Midtjylland;MJ;Denmark;Europe
+86;Lolland;NULL;municipality;LO;Lolland;Sjælland;SL;Denmark;Europe
+87;Lyngby-Taarbæk;NULL;municipality;LT;Lyngby-Taarbæk;Hovedstaden;HS;Denmark;Europe
+88;Mariager Fjord;NULL;municipality;MF;Mariager Fjord;Nordjylland;ND;Denmark;Europe
+89;Middelfart;NULL;municipality;MI;Middelfart;Syddanmark;SD;Denmark;Europe
+90;Morsø;NULL;municipality;MO;Morsø;Nordjylland;ND;Denmark;Europe
+91;Næstved;NULL;municipality;NA;Næstved;Sjælland;SL;Denmark;Europe
+92;Norddjurs;NULL;municipality;NO;Norddjurs;Midtjylland;MJ;Denmark;Europe
+93;Nyborg;NULL;municipality;NY;Nyborg;Syddanmark;SD;Denmark;Europe
+94;Odder;NULL;municipality;OD;Odder;Midtjylland;MJ;Denmark;Europe
+95;Odense;NULL;municipality;OD;Odense;Syddanmark;SD;Denmark;Europe
+96;Odsherred;NULL;municipality;OD;Odsherred;Sjælland;SL;Denmark;Europe
+97;Randers;NULL;municipality;RA;Randers;Midtjylland;MJ;Denmark;Europe
+98;Rebild;NULL;municipality;RE;Rebild;Nordjylland;ND;Denmark;Europe
+99;Ringkøbing-Skjern;NULL;municipality;RS;Ringkøbing-Skjern;Midtjylland;MJ;Denmark;Europe
+100;Ringsted;NULL;municipality;RI;Ringsted;Sjælland;SL;Denmark;Europe
+101;Rødovre;NULL;municipality;RO;Rødovre;Hovedstaden;HS;Denmark;Europe
+102;Roskilde;NULL;municipality;RO;Roskilde;Sjælland;SL;Denmark;Europe
+103;Rudersdal;NULL;municipality;RU;Rudersdal;Hovedstaden;HS;Denmark;Europe
+104;Samsø;NULL;municipality;SA;Samsø;Midtjylland;MJ;Denmark;Europe
+105;Silkeborg;NULL;municipality;SI;Silkeborg;Midtjylland;MJ;Denmark;Europe
+106;Skanderborg;NULL;municipality;SD;Skanderborg;Midtjylland;MJ;Denmark;Europe
+107;Skive;NULL;municipality;SV;Skive;Midtjylland;MJ;Denmark;Europe
+108;Slagelse;NULL;municipality;SL;Slagelse;Sjælland;SL;Denmark;Europe
+109;Solrød;NULL;municipality;SD;Solrød;Sjælland;SL;Denmark;Europe
+110;Sønderborg;NULL;municipality;SO;Sønderborg;Syddanmark;SD;Denmark;Europe
+111;Sorø;NULL;municipality;SO;Sorø;Sjælland;SL;Denmark;Europe
+112;Stevns;NULL;municipality;ST;Stevns;Sjælland;SL;Denmark;Europe
+113;Struer;NULL;municipality;ST;Struer;Midtjylland;MJ;Denmark;Europe
+114;Svendborg;NULL;municipality;SV;Svendborg;Syddanmark;SD;Denmark;Europe
+115;Syddjurs;NULL;municipality;SY;Syddjurs;Midtjylland;MJ;Denmark;Europe
+116;Tårnby;NULL;municipality;TA;Tårnby;Hovedstaden;HS;Denmark;Europe
+117;Thisted;NULL;municipality;TH;Thisted;Nordjylland;ND;Denmark;Europe
+118;Tønder;NULL;municipality;TO;Tønder;Syddanmark;SD;Denmark;Europe
+119;Vallensbæk;NULL;municipality;VA;Vallensbæk;Hovedstaden;HS;Denmark;Europe
+120;Varde;NULL;municipality;VA;Varde;Syddanmark;SD;Denmark;Europe
+121;Vejen;NULL;municipality;VN;Vejen;Syddanmark;SD;Denmark;Europe
+122;Vejle;NULL;municipality;VL;Vejle;Syddanmark;SD;Denmark;Europe
+123;Vesthimmerland;NULL;municipality;VE;Vesthimmerland;Nordjylland;ND;Denmark;Europe
+124;Viborg;NULL;municipality;VI;Viborg;Midtjylland;MJ;Denmark;Europe
+125;Vordingborg;NULL;municipality;VO;Vordingborg;Sjælland;SL;Denmark;Europe
+126;Etelä-Suomen;Southern Finland;province;VO;Hämeenlinna;NULL;NULL;Finland;Europe
+127;Länsi-Suomen;Western Finland;province;LS;Turku;NULL;NULL;Finland;Europe
+128;Itä-Suomen;Eastern Finland;province;IS;Mikkeli;NULL;NULL;Finland;Europe
+129;Oulu;NULL;province;OU;Oulu;NULL;NULL;Finland;Europe
+130;Lapin;Lapland;province;LP;Rovaniemi;NULL;NULL;Finland;Europe
+131;Ahvenanmaan;Åland;autonomous province;AL;Mariehamn;NULL;NULL;Finland;Europe
+132;Ain;NULL;department;AI;Bourg-en-Bresse;Rhône-Alpes;V;France;Europe
+133;Aisne;NULL;department;AS;Laon;Picardie;S;France;Europe
+134;Allier;NULL;department;AL;Moulins;Auvergne;C;France;Europe
+135;Alpes-de-Haute-Provence;NULL;department;AP;Digne;Provence-Alpes-Côte-d'Azur;U;France;Europe
+136;Alpes-Maritimes;NULL;department;AM;Nice;Provence-Alpes-Côte-d'Azur;U;France;Europe
+137;Ardèche;NULL;department;AH;Privas;Rhône-Alpes;V;France;Europe
+138;Ardennes;NULL;department;AN;Charleville-Mézières;Champagne-Ardenne;G;France;Europe
+139;Ariège;NULL;department;AG;Foix;Midi-Pyrénées;N;France;Europe
+140;Aube;NULL;department;AB;Troyes;Champagne-Ardenne;G;France;Europe
+141;Aude;NULL;department;AD;Carcassonne;Languedoc-Roussillon;K;France;Europe
+142;Aveyron;NULL;department;AV;Rodez;Midi-Pyrénées;N;France;Europe
+143;Bas-Rhin;NULL;department;BR;Strasbourg;Alsace;A;France;Europe
+144;Bouches-du-Rhône;NULL;department;BD;Marseille;Provence-Alpes-Côte-d'Azur;U;France;Europe
+145;Calvados;NULL;department;CV;Caen;Basse-Normandie;P;France;Europe
+146;Cantal;NULL;department;CL;Aurillac;Auvergne;C;France;Europe
+147;Charente;NULL;department;CT;Angoulême;Poitou-Charentes;T;France;Europe
+148;Charente-Maritime;NULL;department;CM;La Rochelle;Poitou-Charentes;T;France;Europe
+149;Cher;NULL;department;CH;Bourges;Centre;F;France;Europe
+150;Corrèze;NULL;department;CZ;Tulle;Limousin;L;France;Europe
+151;Corse-du-Sud;NULL;department;CS;Ajaccio;Corse;H;France;Europe
+152;Côte-d'Or;NULL;department;CO;Dijon;Bourgogne;D;France;Europe
+153;Côtes-d'Armor;NULL;department;CA;Saint-Brieuc;Bretagne;E;France;Europe
+154;Creuse;NULL;department;CR;Guéret;Limousin;L;France;Europe
+155;Deux-Sèvres;NULL;department;DS;Niort;Poitou-Charentes;T;France;Europe
+156;Dordogne;NULL;department;DD;Périgueux;Aquitaine;B;France;Europe
+157;Doubs;NULL;department;DB;Besançon;Franche-Comté;I;France;Europe
+158;Drôme;NULL;department;DM;Valence;Rhône-Alpes;V;France;Europe
+159;Essonne;NULL;department;ES;Évry;Île-de-France;J;France;Europe
+160;Eure;NULL;department;EU;Évreux;Haute-Normandie;Q;France;Europe
+161;Eure-et-Loir;NULL;department;EL;Chartres;Centre;F;France;Europe
+162;Finistère;NULL;department;FI;Quimper;Bretagne;E;France;Europe
+163;Gard;NULL;department;GA;Nîmes;Languedoc-Roussillon;K;France;Europe
+164;Gers;NULL;department;GE;Auch;Midi-Pyrénées;N;France;Europe
+165;Gironde;NULL;department;GI;Bordeaux;Aquitaine;B;France;Europe
+166;Haute-Corse;NULL;department;HC;Bastia;Corse;H;France;Europe
+167;Haute-Garonne;NULL;department;HG;Toulouse;Midi-Pyrénées;N;France;Europe
+168;Haute-Loire;NULL;department;HL;Le Puy;Auvergne;C;France;Europe
+169;Haute-Marne;NULL;department;HM;Chaumont;Champagne-Ardenne;G;France;Europe
+170;Hautes-Alpes;NULL;department;HA;Gap;Provence-Alpes-Côte-d'Azur;U;France;Europe
+171;Haute-Saône;NULL;department;HN;Vesoul;Franche-Comté;I;France;Europe
+172;Haute-Savoie;NULL;department;HS;Annecy;Rhône-Alpes;V;France;Europe
+173;Hautes-Pyrénées;NULL;department;HP;Tarbes;Midi-Pyrénées;N;France;Europe
+174;Haute-Vienne;NULL;department;HV;Limoges;Limousin;L;France;Europe
+175;Haut-Rhin;NULL;department;HR;Colmar;Alsace;A;France;Europe
+176;Hauts-de-Seine;NULL;department;HD;Nanterre;Île-de-France;J;France;Europe
+177;Hérault;NULL;department;HE;Montpellier;Languedoc-Roussillon;K;France;Europe
+178;Ille-et-Vilaine;NULL;department;IV;Rennes;Bretagne;E;France;Europe
+179;Indre;NULL;department;IN;Châteauroux;Centre;F;France;Europe
+180;Indre-et-Loire;NULL;department;IL;Tours;Centre;F;France;Europe
+181;Isère;NULL;department;IS;Grenoble;Rhône-Alpes;V;France;Europe
+182;Jura;NULL;department;JU;Lons-le-Saunier;Franche-Comté;I;France;Europe
+183;Landes;NULL;department;LD;Mont-de-Marsan;Aquitaine;B;France;Europe
+184;Loire;NULL;department;LR;Saint-Étienne;Rhône-Alpes;V;France;Europe
+185;Loire-Atlantique;NULL;department;LA;Nantes;Pays de la Loire;R;France;Europe
+186;Loiret;NULL;department;LT;Orléans;Centre;F;France;Europe
+187;Loir-et-Cher;NULL;department;LC;Blois;Centre;F;France;Europe
+188;Lot;NULL;department;LO;Cahors;Midi-Pyrénées;N;France;Europe
+189;Lot-et-Garonne;NULL;department;LG;Agen;Aquitaine;B;France;Europe
+190;Lozère;NULL;department;LZ;Mende;Languedoc-Roussillon;K;France;Europe
+191;Maine-et-Loire;NULL;department;ML;Angers;Pays de la Loire;R;France;Europe
+192;Manche;NULL;department;MH;Saint-Lô;Basse-Normandie;P;France;Europe
+193;Marne;NULL;department;MR;Châlons-en-Champagne;Champagne-Ardenne;G;France;Europe
+194;Mayenne;NULL;department;MY;Laval;Pays de la Loire;R;France;Europe
+195;Meurthe-et-Moselle;NULL;department;MM;Nancy;Lorraine;M;France;Europe
+196;Meuse;NULL;department;MS;Bar-le-Duc;Lorraine;M;France;Europe
+197;Morbihan;NULL;department;MB;Vannes;Bretagne;E;France;Europe
+198;Moselle;NULL;department;MO;Metz;Lorraine;M;France;Europe
+199;Nièvre;NULL;department;NI;Nevers;Bourgogne;D;France;Europe
+200;Nord;NULL;department;NO;Lille;Nord-Pas-de-Calais;O;France;Europe
+201;Oise;NULL;department;OI;Beauvais;Picardie;S;France;Europe
+202;Orne;NULL;department;OR;Alençon;Basse-Normandie;P;France;Europe
+203;Pas-de-Calais;NULL;department;PC;Arras;Nord-Pas-de-Calais;O;France;Europe
+204;Puy-de-Dôme;NULL;department;PD;Clermont-Ferrand;Auvergne;C;France;Europe
+205;Pyrénées-Atlantiques;NULL;department;PA;Pau;Aquitaine;B;France;Europe
+206;Pyrénées-Orientales;NULL;department;PO;Perpignan;Languedoc-Roussillon;K;France;Europe
+207;Rhône;NULL;department;RH;Lyon;Rhône-Alpes;V;France;Europe
+208;Saône-et-Loire;NULL;department;SL;Mâcon;Bourgogne;D;France;Europe
+209;Sarthe;NULL;department;ST;Le Mans;Pays de la Loire;R;France;Europe
+210;Savoie;NULL;department;SV;Chambéry;Rhône-Alpes;V;France;Europe
+211;Seine-et-Marne;NULL;department;SE;Melun;Île-de-France;J;France;Europe
+212;Seine-Maritime;NULL;department;SM;Rouen;Haute-Normandie;Q;France;Europe
+213;Seine-Saint-Denis;NULL;department;SS;Bobigny;Île-de-France;J;France;Europe
+214;Somme;NULL;department;SO;Amiens;Picardie;S;France;Europe
+215;Tarn;NULL;department;TA;Albi;Midi-Pyrénées;N;France;Europe
+216;Tarn-et-Garonne;NULL;department;TG;Montauban;Midi-Pyrénées;N;France;Europe
+217;Territoire de Belfort;NULL;department;TB;Belfort;Franche-Comté;I;France;Europe
+218;Val-de-Marne;NULL;department;VM;Créteil;Île-de-France;J;France;Europe
+219;Val-d'Oise;NULL;department;VO;Cergy-Pontoise;Île-de-France;J;France;Europe
+220;Var;NULL;department;VR;Toulon;Provence-Alpes-Côte-d'Azur;U;France;Europe
+221;Vaucluse;NULL;department;VC;Avignon;Provence-Alpes-Côte-d'Azur;U;France;Europe
+222;Vendée;NULL;department;VD;La Roche-sur-Yon;Pays de la Loire;R;France;Europe
+223;Vienne;NULL;department;VN;Poitiers;Poitou-Charentes;T;France;Europe
+224;Paris;NULL;department;VP;Paris;Île-de-France;J;France;Europe
+225;Vosges;NULL;department;VG;Épinal;Lorraine;M;France;Europe
+226;Yonne;NULL;department;YO;Auxerre;Bourgogne;D;France;Europe
+227;Yvelines;NULL;department;YV;Versailles;Île-de-France;J;France;Europe
+228;Baden-Württemberg;Baden-Wurttemberg;state;BW;Stuttgart;NULL;NULL;Germany;Europe
+229;Bayern;Bavaria;state;BY;Munich;NULL;NULL;Germany;Europe
+230;Berlin;NULL;state;BE;Berlin;NULL;NULL;Germany;Europe
+231;Brandenburg;NULL;state;BB;Potsdam;NULL;NULL;Germany;Europe
+232;Bremen;NULL;state;HB;Bremen;NULL;NULL;Germany;Europe
+233;Hamburg;NULL;state;HH;Hamburg;NULL;NULL;Germany;Europe
+234;Hessen;Hesse;state;HE;Wiesbaden;NULL;NULL;Germany;Europe
+235;Niedersachsen;Lower Saxony;state;NI;Hanover;NULL;NULL;Germany;Europe
+236;Mecklenburg-Vorpommern;Mecklenburg-West Pomerania;state;MV;Schwerin;NULL;NULL;Germany;Europe
+237;Nordrhein-Westfalen;North Rhine-Westphalia;state;NW;Dusseldorf;NULL;NULL;Germany;Europe
+238;Rheinland-Pfalz;Rhineland-Palatinate;state;RP;Mainz;NULL;NULL;Germany;Europe
+239;Saarland;NULL;state;SL;Saarbrucken;NULL;NULL;Germany;Europe
+240;Sachsen;Saxony;state;SN;Dresden;NULL;NULL;Germany;Europe
+241;Sachsen-Anhalt;Saxony-Anhalt;state;ST;Magdeburg;NULL;NULL;Germany;Europe
+242;Schleswig-Holstein;Schleswig-Holstein;state;SH;Kiel;NULL;NULL;Germany;Europe
+243;Thüringen;Thuringia;state;TH;Erfurt;NULL;NULL;Germany;Europe
+244;Ceatharlach;Carlow;county;CW;Carlow;NULL;NULL;Ireland;Europe
+245;An Cabhán;Cavan;county;CN;Cavan;NULL;NULL;Ireland;Europe
+246;An Clár;Clare;county;CE;Ennis;NULL;NULL;Ireland;Europe
+247;Corcaigh;Cork;county;CK;Cork;NULL;NULL;Ireland;Europe
+248;Dún na nGall;Donegal;county;DL;Lifford;NULL;NULL;Ireland;Europe
+249;Baile Átha Cliath;Dublin;county;DN;Dublin;NULL;NULL;Ireland;Europe
+250;Gaillimh;Galway;county;GY;Galway;NULL;NULL;Ireland;Europe
+251;Ciarraí;Kerry;county;KY;Tralee;NULL;NULL;Ireland;Europe
+252;Cill Dara;Kildare;county;KE;Naas;NULL;NULL;Ireland;Europe
+253;Cill Chainnigh;Kilkenny;county;KK;Kilkenny;NULL;NULL;Ireland;Europe
+254;Laoise;Laois;county;LS;Portlaoise;NULL;NULL;Ireland;Europe
+255;Liatroim;Leitrim;county;LM;Carrick on Shannon;NULL;NULL;Ireland;Europe
+256;Luimneach;Limerick;county;LK;Limerick;NULL;NULL;Ireland;Europe
+257;An Longfort;Longford;county;LD;Longford;NULL;NULL;Ireland;Europe
+258;Lú;Louth;county;LH;Dundalk;NULL;NULL;Ireland;Europe
+259;Maigh Eo;Mayo;county;MO;Castlebar;NULL;NULL;Ireland;Europe
+260;An Mhí;Meath;county;MH;Trim;NULL;NULL;Ireland;Europe
+261;Muineachán;Monaghan;county;MN;Monaghan;NULL;NULL;Ireland;Europe
+262;Uíbh Fhailí;Offaly;county;OY;Tullamore;NULL;NULL;Ireland;Europe
+263;Ros Comáin;Roscommon;county;RN;Roscommon;NULL;NULL;Ireland;Europe
+264;Sligeach;Sligo;county;SO;Sligo;NULL;NULL;Ireland;Europe
+265;Tiobraid Árann;Tipperary;county;TY;Clonmel (S), Nenagh (N);NULL;NULL;Ireland;Europe
+266;Port Láirge;Waterford;county;WD;Waterford;NULL;NULL;Ireland;Europe
+267;An Iarmhí;Westmeath;county;WH;Mullingar;NULL;NULL;Ireland;Europe
+268;Loch Garman;Wexford;county;WX;Wexford;NULL;NULL;Ireland;Europe
+269;Cill Mhantáin;Wicklow;county;WW;Wicklow;NULL;NULL;Ireland;Europe
+270;Agrigento;NULL;province;AG;Agrigento;Sicilia;SC;Italy;Europe
+271;Alessandria;NULL;province;AL;Alessandria;Piemonte;PM;Italy;Europe
+272;Ancona;NULL;province;AN;Ancona;Marche;MH;Italy;Europe
+273;Aosta;NULL;province;AO;Aosta;Valle d'Aosta;VD;Italy;Europe
+274;Arezzo;NULL;province;AR;Arezzo;Toscana;TC;Italy;Europe
+275;Ascoli Piceno;NULL;province;AC;Ascoli Piceno;Marche;MH;Italy;Europe
+276;Asti;NULL;province;AT;Asti;Piemonte;PM;Italy;Europe
+277;Avellino;NULL;province;AV;Avellino;Campania;CM;Italy;Europe
+278;Bari;NULL;province;BB;Bari;Apulia;PU;Italy;Europe
+279;Barletta-Andria-Trani;NULL;province;BT;Andria;Apulia;PU;Italy;Europe
+280;Belluno;NULL;province;BL;Belluno;Veneto;VN;Italy;Europe
+281;Benevento;NULL;province;BN;Benevento;Campania;CM;Italy;Europe
+282;Bergamo;NULL;province;BG;Bergamo;Lombardia;LM;Italy;Europe
+283;Biella;NULL;province;BI;Biella;Piemonte;PM;Italy;Europe
+284;Bologna;NULL;province;BO;Bologna;Emilia-Romagna;ER;Italy;Europe
+285;Bolzano;NULL;province;BZ;Bolzano;Trentino-Alto Adige;TT;Italy;Europe
+286;Brescia;NULL;province;BS;Brescia;Lombardia;LM;Italy;Europe
+287;Brindisi;NULL;province;BR;Brindisi;Apulia;PU;Italy;Europe
+288;Cagliari;NULL;province;CG;Cagliari;Sardegna;SD;Italy;Europe
+289;Caltanissetta;NULL;province;CL;Caltanissetta;Sicilia;SC;Italy;Europe
+290;Campobasso;NULL;province;CB;Campobasso;Molise;ML;Italy;Europe
+291;Carbonia-Iglesias;NULL;province;CI;Carbonia;Sardegna;SD;Italy;Europe
+292;Caserta;NULL;province;CE;Caserta;Campania;CM;Italy;Europe
+293;Catania;NULL;province;CT;Catania;Sicilia;SC;Italy;Europe
+294;Catanzaro;NULL;province;CZ;Catanzaro;Calabria;CI;Italy;Europe
+295;Chieti;NULL;province;CH;Chieti;Abruzzo;AB;Italy;Europe
+296;Como;NULL;province;CO;Como;Lombardia;LM;Italy;Europe
+297;Cosenza;NULL;province;CS;Cosenza;Calabria;CI;Italy;Europe
+298;Cremona;NULL;province;CR;Cremona;Lombardia;LM;Italy;Europe
+299;Crotone;NULL;province;KR;Crotone;Calabria;CI;Italy;Europe
+300;Cuneo;NULL;province;CN;Cuneo;Piemonte;PM;Italy;Europe
+301;Enna;NULL;province;EN;Enna;Sicilia;SC;Italy;Europe
+302;Fermo;NULL;province;FM;Fermo;Marche;MH;Italy;Europe
+303;Ferrara;NULL;province;FE;Ferrara;Emilia-Romagna;ER;Italy;Europe
+304;Firenze;Florence;province;FI;Firenze;Toscana;TC;Italy;Europe
+305;Foggia;NULL;province;FA;Foggia;Apulia;PU;Italy;Europe
+306;Forlì-Cesena;NULL;province;FO;Forlì;Emilia-Romagna;ER;Italy;Europe
+307;Frosinone;NULL;province;FR;Frosinone;Lazio;LZ;Italy;Europe
+308;Genova;Genoa;province;GE;Genova;Liguria;LG;Italy;Europe
+309;Gorizia;NULL;province;GO;Gorizia;Friuli-Venezia Giulia;FV;Italy;Europe
+310;Grosseto;NULL;province;GR;Grosseto;Toscana;TC;Italy;Europe
+311;Imperia;NULL;province;IM;Imperia;Liguria;LG;Italy;Europe
+312;Isernia;NULL;province;IS;Isernia;Molise;ML;Italy;Europe
+313;L'Aquila;NULL;province;AQ;L'Aquila;Abruzzo;AB;Italy;Europe
+314;La Spezia;NULL;province;SP;La Spezia;Liguria;LG;Italy;Europe
+315;Latina;NULL;province;LT;Latina;Lazio;LZ;Italy;Europe
+316;Lecce;NULL;province;LE;Lecce;Apulia;PU;Italy;Europe
+317;Lecco;NULL;province;LC;Lecco;Lombardia;LM;Italy;Europe
+318;Livorno;NULL;province;LI;Livorno;Toscana;TC;Italy;Europe
+319;Lodi;NULL;province;LO;Lodi;Lombardia;LM;Italy;Europe
+320;Lucca;NULL;province;LU;Lucca;Toscana;TC;Italy;Europe
+321;Macerata;NULL;province;MC;Macerata;Marche;MH;Italy;Europe
+322;Mantua;NULL;province;MN;Mantua;Lombardia;LM;Italy;Europe
+323;Massa-Carrara;NULL;province;MS;Massa;Toscana;TC;Italy;Europe
+324;Matera;NULL;province;MT;Matera;Basilicata;BC;Italy;Europe
+325;Medio Campidano;NULL;province;MD;Sanluri;Sardegna;SD;Italy;Europe
+326;Messina;NULL;province;ME;Messina;Sicilia;SC;Italy;Europe
+327;Milano;Milan;province;MA;Milano;Lombardia;LM;Italy;Europe
+328;Modena;NULL;province;MO;Modena;Emilia-Romagna;ER;Italy;Europe
+329;Monza e Brianza;NULL;province;MZ;Monza;Lombardia;LM;Italy;Europe
+330;Napoli;Naples;province;NA;Naples;Campania;CM;Italy;Europe
+331;Novara;NULL;province;NO;Novara;Piemonte;PM;Italy;Europe
+332;Nuoro;NULL;province;NR;Nuoro;Sardegna;SD;Italy;Europe
+333;Ogliastra;NULL;province;OG;Tortoli;Sardegna;SD;Italy;Europe
+334;Olbia-Tempio;NULL;province;OT;Olbia;Sardegna;SD;Italy;Europe
+335;Oristano;NULL;province;ON;Oristano;Sardegna;SD;Italy;Europe
+336;Padova;Padua;province;PD;Padova;Veneto;VN;Italy;Europe
+337;Palermo;NULL;province;PA;Palermo;Sicilia;SC;Italy;Europe
+338;Parma;NULL;province;PR;Parma;Emilia-Romagna;ER;Italy;Europe
+339;Pavia;NULL;province;PV;Pavia;Lombardia;LM;Italy;Europe
+340;Perugia;NULL;province;PG;Perugia;Umbria;UM;Italy;Europe
+341;Pesaro e Urbino;NULL;province;PS;Pesaro;Marche;MH;Italy;Europe
+342;Pescara;NULL;province;PE;Pescara;Abruzzo;AB;Italy;Europe
+343;Piacenza;NULL;province;PC;Piacenza;Emilia-Romagna;ER;Italy;Europe
+344;Pisa;NULL;province;PI;Pisa;Toscana;TC;Italy;Europe
+345;Pistoia;NULL;province;PT;Pistoia;Toscana;TC;Italy;Europe
+346;Pordenone;NULL;province;PN;Pordenone;Friuli-Venezia Giulia;FV;Italy;Europe
+347;Potenza;NULL;province;PZ;Potenza;Basilicata;BC;Italy;Europe
+348;Prato;NULL;province;PO;Prato;Toscana;TC;Italy;Europe
+349;Ragusa;NULL;province;RG;Ragusa;Sicilia;SC;Italy;Europe
+350;Ravenna;NULL;province;RA;Ravenna;Emilia-Romagna;ER;Italy;Europe
+351;Reggio Calabria;NULL;province;RC;Reggio Calabria;Calabria;CI;Italy;Europe
+352;Reggio Emilia;NULL;province;RE;Reggio Emilia;Emilia-Romagna;ER;Italy;Europe
+353;Rieti;NULL;province;RI;Rieti;Lazio;LZ;Italy;Europe
+354;Rimini;NULL;province;RN;Rimini;Emilia-Romagna;ER;Italy;Europe
+355;Roma;Rome;province;RM;Roma;Lazio;LZ;Italy;Europe
+356;Rovigo;NULL;province;RO;Rovigo;Veneto;VN;Italy;Europe
+357;Salerno;NULL;province;SA;Salerno;Campania;CM;Italy;Europe
+358;Sassari;NULL;province;SX;Sassari;Sardegna;SD;Italy;Europe
+359;Savona;NULL;province;SV;Savona;Liguria;LG;Italy;Europe
+360;Siena;NULL;province;SI;Siena;Toscana;TC;Italy;Europe
+361;Sondrio;NULL;province;SO;Sondrio;Lombardia;LM;Italy;Europe
+362;Siracusa;Syracuse;province;SR;Siracusa;Sicilia;SC;Italy;Europe
+363;Taranto;NULL;province;TA;Taranto;Apulia;PU;Italy;Europe
+364;Teramo;NULL;province;TE;Teramo;Abruzzo;AB;Italy;Europe
+365;Terni;NULL;province;TR;Terni;Umbria;UM;Italy;Europe
+366;Trapani;NULL;province;TP;Trapani;Sicilia;SC;Italy;Europe
+367;Trento;NULL;province;TN;Trento;Trentino-Alto Adige;TT;Italy;Europe
+368;Treviso;NULL;province;TV;Treviso;Veneto;VN;Italy;Europe
+369;Trieste;NULL;province;TS;Trieste;Friuli-Venezia Giulia;FV;Italy;Europe
+370;Torino;Turin;province;TO;Torino;Piemonte;PM;Italy;Europe
+371;Udine;NULL;province;UD;Udine;Friuli-Venezia Giulia;FV;Italy;Europe
+372;Varese;NULL;province;VA;Varese;Lombardia;LM;Italy;Europe
+373;Venezia;Venice;province;VE;Venezia;Veneto;VN;Italy;Europe
+374;Verbano-Cusio-Ossola;NULL;province;VB;Verbania;Piemonte;PM;Italy;Europe
+375;Vercelli;NULL;province;VC;Vercelli;Piemonte;PM;Italy;Europe
+376;Verona;NULL;province;VR;Verona;Veneto;VN;Italy;Europe
+377;Vibo Valentia;NULL;province;VV;Vibo Valentia;Calabria;CI;Italy;Europe
+378;Vicenza;NULL;province;VI;Vicenza;Veneto;VN;Italy;Europe
+379;Viterbo;NULL;province;VT;Viterbo;Lazio;LZ;Italy;Europe
+380;Drenthe;NULL;province;DR;Assen;NULL;NULL;Netherlands;Europe
+381;Flevoland;NULL;province;FL;Lelystad;NULL;NULL;Netherlands;Europe
+382;Friesland;NULL;province;FR;Leeuwarden;NULL;NULL;Netherlands;Europe
+383;Gelderland;NULL;province;GE;Arnhem;NULL;NULL;Netherlands;Europe
+384;Groningen;NULL;province;GR;Groningen;NULL;NULL;Netherlands;Europe
+385;Limburg;NULL;province;LI;Maastricht;NULL;NULL;Netherlands;Europe
+386;Noord-Brabant;North Brabant;province;NB;'s-Hertogenbosch;NULL;NULL;Netherlands;Europe
+387;Noord-Holland;North Holland;province;NH;Haarlem;NULL;NULL;Netherlands;Europe
+388;Overijssel;NULL;province;OV;Zwolle;NULL;NULL;Netherlands;Europe
+389;Utrecht;NULL;province;UT;Utrecht;NULL;NULL;Netherlands;Europe
+390;Zeeland;NULL;province;ZE;Middelburg;NULL;NULL;Netherlands;Europe
+391;Zuid-Holland;South Holland;province;ZH;The Hague;NULL;NULL;Netherlands;Europe
+392;Akershus;NULL;county;AK;Oslo;NULL;NULL;Norway;Europe
+393;Aust-Agder;NULL;county;AA;Arendal;NULL;NULL;Norway;Europe
+394;Buskerud;NULL;county;BU;Drammen;NULL;NULL;Norway;Europe
+395;Finnmark;NULL;county;FI;Vadsø;NULL;NULL;Norway;Europe
+396;Hedmark;NULL;county;HE;Hamar;NULL;NULL;Norway;Europe
+397;Hordaland;NULL;county;HO;Bergen;NULL;NULL;Norway;Europe
+398;Møre og Romsdal;NULL;county;MR;Molde;NULL;NULL;Norway;Europe
+399;Nordland;NULL;county;NO;Bodø;NULL;NULL;Norway;Europe
+400;Nord-Trøndelag;NULL;county;NT;Steinkjer;NULL;NULL;Norway;Europe
+401;Oppland;NULL;county;OP;Lillehammer;NULL;NULL;Norway;Europe
+402;Oslo;NULL;county;OS;Oslo;NULL;NULL;Norway;Europe
+403;Østfold;NULL;county;OF;Sarpsborg;NULL;NULL;Norway;Europe
+404;Rogaland;NULL;county;RO;Stavanger;NULL;NULL;Norway;Europe
+405;Sogn og Fjordane;NULL;county;SF;Hermansverk;NULL;NULL;Norway;Europe
+406;Sør-Trøndelag;NULL;county;ST;Trondheim;NULL;NULL;Norway;Europe
+407;Telemark;NULL;county;TE;Skien;NULL;NULL;Norway;Europe
+408;Troms;NULL;county;TR;Tromsø;NULL;NULL;Norway;Europe
+409;Vest-Agder;NULL;county;VA;Kristiansand;NULL;NULL;Norway;Europe
+410;Vestfold;NULL;county;VF;Tønsberg;NULL;NULL;Norway;Europe
+411;Dolnoslaskie;NULL;voivodship;DS;Wroclaw;NULL;NULL;Poland;Europe
+412;Kujawsko-pomorskie;NULL;voivodship;KP;Bydgoszcz;NULL;NULL;Poland;Europe
+413;Lódzkie;NULL;voivodship;LD;Lódz;NULL;NULL;Poland;Europe
+414;Lubelskie;NULL;voivodship;LU;Lublin;NULL;NULL;Poland;Europe
+415;Lubuskie;NULL;voivodship;LB;Gorzów;NULL;NULL;Poland;Europe
+416;Malopolskie;NULL;voivodship;MA;Kraków;NULL;NULL;Poland;Europe
+417;Mazowieckie;NULL;voivodship;MZ;Warszawa;NULL;NULL;Poland;Europe
+418;Opolskie;NULL;voivodship;OP;Opole;NULL;NULL;Poland;Europe
+419;Podkarpackie;NULL;voivodship;PK;Rzeszów;NULL;NULL;Poland;Europe
+420;Podlaskie;NULL;voivodship;PD;Bialystok;NULL;NULL;Poland;Europe
+421;Pomorskie;NULL;voivodship;PM;Gdansk;NULL;NULL;Poland;Europe
+422;Slaskie;NULL;voivodship;SL;Katowice;NULL;NULL;Poland;Europe
+423;Swietokrzyskie;NULL;voivodship;SK;Kielce;NULL;NULL;Poland;Europe
+424;Warminsko-mazurskie;NULL;voivodship;WN;Olsztyn;NULL;NULL;Poland;Europe
+425;Wielkopolskie;NULL;voivodship;WP;Poznan;NULL;NULL;Poland;Europe
+426;Zachodniopomorskie;NULL;voivodship;ZP;Szczecin;NULL;NULL;Poland;Europe
+427;Aveiro;NULL;district;AV;Aveiro;Centro;NULL;Portugal;Europe
+428;Azores;NULL;autonomous region;AC;Ponta Delgada;Açores;NULL;Portugal;Europe
+429;Beja;NULL;district;BE;Beja;Alentejo;NULL;Portugal;Europe
+430;Braga;NULL;district;BR;Braga;Norte;NULL;Portugal;Europe
+431;Bragança;NULL;district;BA;Bragança;Norte;NULL;Portugal;Europe
+432;Castelo Branco;NULL;district;CB;Castelo Branco;Centro;NULL;Portugal;Europe
+433;Coimbra;NULL;district;CO;Coimbra;Centro;NULL;Portugal;Europe
+434;Évora;NULL;district;EV;Évora;Alentejo;NULL;Portugal;Europe
+435;Faro;NULL;district;FA;Faro;Algarve;NULL;Portugal;Europe
+436;Guarda;NULL;district;GU;Guarda;Centro;NULL;Portugal;Europe
+437;Leiria;NULL;district;LE;Leiria;Centro;NULL;Portugal;Europe
+438;Lisboa;NULL;district;LI;Lisboa;Lisboa e Vale do Tejo;NULL;Portugal;Europe
+439;Madeira;NULL;autonomous region;MA;Funchal;Madeira;NULL;Portugal;Europe
+440;Portalegre;NULL;district;PA;Portalegre;Alentejo;NULL;Portugal;Europe
+441;Porto;NULL;district;PO;Porto;Norte;NULL;Portugal;Europe
+442;Santarém;NULL;district;SA;Santarém;Lisboa e Vale do Tejo;NULL;Portugal;Europe
+443;Setúbal;NULL;district;SE;Setúbal;Lisboa e Vale do Tejo;NULL;Portugal;Europe
+444;Viana do Castelo;NULL;district;VC;Viana do Castelo;Norte;NULL;Portugal;Europe
+445;Vila Real;NULL;district;VR;Vila Real;Norte;NULL;Portugal;Europe
+446;Viseu;NULL;district;VI;Viseu;Centro;NULL;Portugal;Europe
+447;Álava;NULL;province;NULL;Vitoria;País Vasco;NULL;Spain;Europe
+448;Albacete;NULL;province;NULL;Albacete;Castilla-La Mancha;NULL;Spain;Europe
+449;Alicante;NULL;province;NULL;Alicante;Comunidad Valenciana;NULL;Spain;Europe
+450;Almería;NULL;province;NULL;Almería;Andalucía;NULL;Spain;Europe
+451;Asturias;NULL;province;NULL;Oviedo;Principado de Asturias;NULL;Spain;Europe
+452;Ávila;NULL;province;NULL;Ávila;Castilla y León;NULL;Spain;Europe
+453;Badajoz;NULL;province;NULL;Badajoz;Extremadura;NULL;Spain;Europe
+454;Barcelona;NULL;province;NULL;Barcelona;Cataluña;NULL;Spain;Europe
+455;Burgos;NULL;province;NULL;Burgos;Castilla y León;NULL;Spain;Europe
+456;Cáceres;NULL;province;NULL;Cáceres;Extremadura;NULL;Spain;Europe
+457;Cádiz;NULL;province;NULL;Cádiz;Andalucía;NULL;Spain;Europe
+458;Cantabria;NULL;province;NULL;Santander;Cantabria;NULL;Spain;Europe
+459;Castellón;NULL;province;NULL;Castellón de la Plana;Comunidad Valenciana;NULL;Spain;Europe
+460;Ciudad Real;NULL;province;NULL;Ciudad Real;Castilla-La Mancha;NULL;Spain;Europe
+461;Córdoba;NULL;province;NULL;Córdoba;Andalucía;NULL;Spain;Europe
+462;La Coruña;NULL;province;NULL;La Coruña;Galicia;NULL;Spain;Europe
+463;Cuenca;NULL;province;NULL;Cuenca;Castilla-La Mancha;NULL;Spain;Europe
+464;Gerona;NULL;province;NULL;Gerona;Cataluña;NULL;Spain;Europe
+465;Granada;NULL;province;NULL;Granada;Andalucía;NULL;Spain;Europe
+466;Guadalajara;NULL;province;NULL;Guadalajara;Castilla-La Mancha;NULL;Spain;Europe
+467;Guipúzcoa;NULL;province;NULL;San Sebastián;País Vasco;NULL;Spain;Europe
+468;Huelva;NULL;province;NULL;Huelva;Andalucía;NULL;Spain;Europe
+469;Huesca;NULL;province;NULL;Huesca;Aragón;NULL;Spain;Europe
+470;Islas Baleares;NULL;province;NULL;Palma de Mallorca;Islas Baleares;NULL;Spain;Europe
+471;Santa Cruz de Tenerife;NULL;province;NULL;Santa Cruz de Tenerife;Islas Canarias;NULL;Spain;Europe
+472;Jaén;NULL;province;NULL;Jaén;Andalucía;NULL;Spain;Europe
+473;León;NULL;province;NULL;León;Castilla y León;NULL;Spain;Europe
+474;Lérida;NULL;province;NULL;Lérida;Cataluña;NULL;Spain;Europe
+475;Lugo;NULL;province;NULL;Lugo;Galicia;NULL;Spain;Europe
+476;Madrid;NULL;province;NULL;Madrid;Comunidad de Madrid;NULL;Spain;Europe
+477;Málaga;NULL;province;NULL;Málaga;Andalucía;NULL;Spain;Europe
+478;Murcia;NULL;province;NULL;Murcia;Región de Murcia;NULL;Spain;Europe
+479;Navarra;NULL;province;NULL;Pamplona;Comunidad Foral de Navarra;NULL;Spain;Europe
+480;Orense;NULL;province;NULL;Orense;Galicia;NULL;Spain;Europe
+481;Palencia;NULL;province;NULL;Palencia;Castilla y León;NULL;Spain;Europe
+482;Las Palmas;NULL;province;NULL;Las Palmas de Gran Canaria;Islas Canarias;NULL;Spain;Europe
+483;Pontevedra;NULL;province;NULL;Pontevedra;Galicia;NULL;Spain;Europe
+484;La Rioja;NULL;province;NULL;Logroño;La Rioja;NULL;Spain;Europe
+485;Salamanca;NULL;province;NULL;Salamanca;Castilla y León;NULL;Spain;Europe
+486;Segovia;NULL;province;NULL;Segovia;Castilla y León;NULL;Spain;Europe
+487;Sevilla;NULL;province;NULL;Sevilla;Andalucía;NULL;Spain;Europe
+488;Soria;NULL;province;NULL;Soria;Castilla y León;NULL;Spain;Europe
+489;Tarragona;NULL;province;NULL;Tarragona;Cataluña;NULL;Spain;Europe
+490;Santa Cruz de Tenerife;NULL;province;NULL;Santa Cruz de Tenerife;Canarias;NULL;Spain;Europe
+491;Teruel;NULL;province;NULL;Teruel;Aragón;NULL;Spain;Europe
+492;Toledo;NULL;province;NULL;Toledo;Castilla-La Mancha;NULL;Spain;Europe
+493;Valencia;NULL;province;NULL;Valencia;Comunidad Valenciana;NULL;Spain;Europe
+494;Valladolid;NULL;province;NULL;Valladolid;Castilla y León;NULL;Spain;Europe
+495;Vizcaya;NULL;province;NULL;Bilbao;País Vasco;NULL;Spain;Europe
+496;Zamora;NULL;province;NULL;Zamora;Castilla y León;NULL;Spain;Europe
+497;Zaragoza;NULL;province;NULL;Zaragoza;Aragón;NULL;Spain;Europe
+498;Ceuta;NULL;autonomous city;NULL;Ceuta;Ceuta y Melilla;NULL;Spain;Europe
+499;Melilla;NULL;autonomous city;NULL;Melilla;Ceuta y Melilla;NULL;Spain;Europe
+500;Stockholm;NULL;county;ST;Stockholm;NULL;NULL;Sweden;Europe
+501;Västerbotten;NULL;county;VB;Umeå;NULL;NULL;Sweden;Europe
+502;Norrbotten;NULL;county;NB;Luleå;NULL;NULL;Sweden;Europe
+503;Uppsala;NULL;county;C;Uppsala;NULL;NULL;Sweden;Europe
+504;Södermanland;NULL;county;SD;Nyköping;NULL;NULL;Sweden;Europe
+505;Östergötland;NULL;county;OG;Linköping;NULL;NULL;Sweden;Europe
+506;Jönköping;NULL;county;JO;Jönköping;NULL;NULL;Sweden;Europe
+507;Kronoberg;NULL;county;KR;Växjö;NULL;NULL;Sweden;Europe
+508;Kalmar;NULL;county;KA;Kalmar;NULL;NULL;Sweden;Europe
+509;Gotland;NULL;county;GT;Visby;NULL;NULL;Sweden;Europe
+510;Blekinge;NULL;county;BL;Karlskrona;NULL;NULL;Sweden;Europe
+511;Skåne;NULL;county;SN;Malmö;NULL;NULL;Sweden;Europe
+512;Halland;NULL;county;HA;Halmstad;NULL;NULL;Sweden;Europe
+513;Västra Götaland;NULL;county;VG;Gothenburg;NULL;NULL;Sweden;Europe
+514;Värmland;NULL;county;VR;Karlstad;NULL;NULL;Sweden;Europe
+515;Örebro;NULL;county;OR;Örebro;NULL;NULL;Sweden;Europe
+516;Västmanland;NULL;county;VM;Västerås;NULL;NULL;Sweden;Europe
+517;Dalarna;NULL;county;KO;Falun;NULL;NULL;Sweden;Europe
+518;Gävleborg;NULL;county;GV;Gävle;NULL;NULL;Sweden;Europe
+519;Västernorrland;NULL;county;VN;Härnösand;NULL;NULL;Sweden;Europe
+520;Jämtland;NULL;county;JA;Östersund;NULL;NULL;Sweden;Europe
+521;Aargau;NULL;canton;AG;Aarau;NULL;NULL;Switzerland;Europe
+522;Appenzell Outer Rhodes;NULL;canton;AR;Herisau;NULL;NULL;Switzerland;Europe
+523;Appenzell Inner Rhodes;NULL;canton;AI;Appenzell;NULL;NULL;Switzerland;Europe
+524;Basel-Landschaft;NULL;canton;BL;Liestal;NULL;NULL;Switzerland;Europe
+525;Basel-Stadt;NULL;canton;BS;Basel;NULL;NULL;Switzerland;Europe
+526;Bern;NULL;canton;BE;Bern;NULL;NULL;Switzerland;Europe
+527;Fribourg;NULL;canton;FR;Fribourg;NULL;NULL;Switzerland;Europe
+528;Geneva;NULL;canton;GE;Geneva;NULL;NULL;Switzerland;Europe
+529;Glarus;NULL;canton;GL;Glarus;NULL;NULL;Switzerland;Europe
+530;Graubünden;NULL;canton;GR;Chur;NULL;NULL;Switzerland;Europe
+531;Jura;NULL;canton;JU;Delémont;NULL;NULL;Switzerland;Europe
+532;Lucerne;NULL;canton;LU;Lucerne;NULL;NULL;Switzerland;Europe
+533;Neuchâtel;NULL;canton;NE;Neuchâtel;NULL;NULL;Switzerland;Europe
+534;Nidwalden;NULL;canton;NW;Stans;NULL;NULL;Switzerland;Europe
+535;Obwalden;NULL;canton;OW;Sarnen;NULL;NULL;Switzerland;Europe
+536;Sankt Gallen;NULL;canton;SG;Saint Gall;NULL;NULL;Switzerland;Europe
+537;Schaffhausen;NULL;canton;SH;Schaffhausen;NULL;NULL;Switzerland;Europe
+538;Schwyz;NULL;canton;SZ;Schwyz;NULL;NULL;Switzerland;Europe
+539;Solothurn;NULL;canton;SO;Solothurn;NULL;NULL;Switzerland;Europe
+540;Thurgau;NULL;canton;TG;Frauenfeld;NULL;NULL;Switzerland;Europe
+541;Ticino;NULL;canton;TI;Bellinzona;NULL;NULL;Switzerland;Europe
+542;Uri;NULL;canton;UR;Altdorf;NULL;NULL;Switzerland;Europe
+543;Valais;NULL;canton;VS;Sion;NULL;NULL;Switzerland;Europe
+544;Vaud;NULL;canton;VD;Lausanne;NULL;NULL;Switzerland;Europe
+545;Zug;NULL;canton;ZG;Zug;NULL;NULL;Switzerland;Europe
+546;Zurich;NULL;canton;ZH;Zürich;NULL;NULL;Switzerland;Europe
+547;Aberdeen;NULL;Unitary district (city);AR;Aberdeen;NULL;NULL;United Kingdom;Europe
+548;Aberdeenshire;NULL;Unitary district;AS;Aberdeen;NULL;NULL;United Kingdom;Europe
+549;Anglesey;NULL;Unitary authority (Wales);AY;Llangefni;NULL;NULL;United Kingdom;Europe
+550;Angus;NULL;Unitary district;AG;Forfar;NULL;NULL;United Kingdom;Europe
+551;Antrim;NULL;District;AN;Antrim;NULL;NULL;United Kingdom;Europe
+552;Ards;NULL;District;AD;Newtownards;NULL;NULL;United Kingdom;Europe
+553;Argyll and Bute;NULL;Unitary district;AB;Lochgilphead;NULL;NULL;United Kingdom;Europe
+554;Armagh;NULL;District;AM;Armagh;NULL;NULL;United Kingdom;Europe
+555;Ballymena;NULL;District;BL;Ballymena;NULL;NULL;United Kingdom;Europe
+556;Ballymoney;NULL;District;BY;Ballymoney;NULL;NULL;United Kingdom;Europe
+557;Banbridge;NULL;District;BB;Banbridge;NULL;NULL;United Kingdom;Europe
+558;Barnsley;NULL;Metropolitan borough;BX;Barnsley;NULL;NULL;United Kingdom;Europe
+559;Bath and North East Somerset;NULL;Unitary authority;BN;Bristol;NULL;NULL;United Kingdom;Europe
+560;Bedfordshire;NULL;Administrative county;BD;Bedford;NULL;NULL;United Kingdom;Europe
+561;Belfast;NULL;District;BF;Belfast;NULL;NULL;United Kingdom;Europe
+562;Birmingham;NULL;Metropolitan borough (city);BI;Birmingham;NULL;NULL;United Kingdom;Europe
+563;Blackburn with Darwen;NULL;Unitary authority;BW;Blackburn;NULL;NULL;United Kingdom;Europe
+564;Blackpool;NULL;Unitary authority;BP;Blackpool;NULL;NULL;United Kingdom;Europe
+565;Blaenau Gwent;NULL;Unitary authority (Wales);BG;Ebbw Vale;NULL;NULL;United Kingdom;Europe
+566;Bolton;NULL;Metropolitan borough;BT;Bolton;NULL;NULL;United Kingdom;Europe
+567;Bournemouth;NULL;Unitary authority;BM;Bournemouth;NULL;NULL;United Kingdom;Europe
+568;Bracknell Forest;NULL;Unitary authority;BC;Bracknell;NULL;NULL;United Kingdom;Europe
+569;Bradford;NULL;Metropolitan borough (city);BV;Bradford;NULL;NULL;United Kingdom;Europe
+570;Bridgend;NULL;Unitary authority (Wales);BJ;Bridgend;NULL;NULL;United Kingdom;Europe
+571;Brighton and Hove;NULL;Unitary authority;BH;Hove;NULL;NULL;United Kingdom;Europe
+572;Bristol;NULL;Unitary authority (city);BS;Bristol;NULL;NULL;United Kingdom;Europe
+573;Buckinghamshire;NULL;Administrative county;BU;Aylesbury;NULL;NULL;United Kingdom;Europe
+574;Bury;NULL;Metropolitan borough;BR;Bury;NULL;NULL;United Kingdom;Europe
+575;Caerphilly;NULL;Unitary authority (Wales);CP;Tredomen, Ystrad Fawr;NULL;NULL;United Kingdom;Europe
+576;Calderdale;NULL;Metropolitan borough;CX;Halifax;NULL;NULL;United Kingdom;Europe
+577;Cambridgeshire;NULL;Administrative county;CM;Cambridge;NULL;NULL;United Kingdom;Europe
+578;Cardiff;NULL;Unitary authority (Wales);CA;Cardiff;NULL;NULL;United Kingdom;Europe
+579;Carmarthenshire;NULL;Unitary authority (Wales);CI;Carmarthen;NULL;NULL;United Kingdom;Europe
+580;Carrickfergus;NULL;District;CF;Carrickfergus;NULL;NULL;United Kingdom;Europe
+581;Castlereagh;NULL;District;CS;Castlereagh;NULL;NULL;United Kingdom;Europe
+582;Ceredigion;NULL;Unitary authority (Wales);CG;Aberaeron, Aberystwyth;NULL;NULL;United Kingdom;Europe
+583;Cheshire;NULL;Administrative county;CH;Chester;NULL;NULL;United Kingdom;Europe
+584;Clackmannanshire;NULL;Unitary district;CC;Alloa;NULL;NULL;United Kingdom;Europe
+585;Coleraine;NULL;District;CL;Coleraine;NULL;NULL;United Kingdom;Europe
+586;Conwy;NULL;Unitary authority (Wales);CW;Conwy;NULL;NULL;United Kingdom;Europe
+587;Cookstown;NULL;District;CK;Cookstown;NULL;NULL;United Kingdom;Europe
+588;Cornwall;NULL;Administrative county;CO;Truro;NULL;NULL;United Kingdom;Europe
+589;Coventry;NULL;Metropolitan borough (city);CT;Coventry;NULL;NULL;United Kingdom;Europe
+590;Craigavon;NULL;District;CR;Craigavon;NULL;NULL;United Kingdom;Europe
+591;Cumbria;NULL;Administrative county;CU;Carlisle;NULL;NULL;United Kingdom;Europe
+592;Darlington;NULL;Unitary authority;DA;Darlington;NULL;NULL;United Kingdom;Europe
+593;Denbighshire;NULL;Unitary authority (Wales);DI;Ruthin;NULL;NULL;United Kingdom;Europe
+594;Derby;NULL;Unitary authority (city);DE;Derby;NULL;NULL;United Kingdom;Europe
+595;Derbyshire;NULL;Administrative county;DB;Matlock;NULL;NULL;United Kingdom;Europe
+596;Derry;NULL;District;LD;Londonderry;NULL;NULL;United Kingdom;Europe
+597;Devon;NULL;Administrative county;DO;Exeter;NULL;NULL;United Kingdom;Europe
+598;Doncaster;NULL;Metropolitan borough;DC;Doncaster;NULL;NULL;United Kingdom;Europe
+599;Dorset;NULL;Administrative county;DS;Dorchester;NULL;NULL;United Kingdom;Europe
+600;Down;NULL;District;DW;Downpatrick;NULL;NULL;United Kingdom;Europe
+601;Dudley;NULL;Metropolitan borough;DY;Dudley;NULL;NULL;United Kingdom;Europe
+602;Dumfries and Galloway;NULL;Unitary district;DG;Dumfries;NULL;NULL;United Kingdom;Europe
+603;Dundee;NULL;Unitary district (city);DU;Dundee;NULL;NULL;United Kingdom;Europe
+604;Dungannon;NULL;District;DN;Dungannon;NULL;NULL;United Kingdom;Europe
+605;Durham;NULL;Administrative county;DH;Durham;NULL;NULL;United Kingdom;Europe
+606;East Ayrshire;NULL;Unitary district;EA;Kilmarnock;NULL;NULL;United Kingdom;Europe
+607;East Dunbartonshire;NULL;Unitary district;ED;Kirkintilloch;NULL;NULL;United Kingdom;Europe
+608;East Lothian;NULL;Unitary district;EL;Haddington;NULL;NULL;United Kingdom;Europe
+609;East Renfrewshire;NULL;Unitary district;ER;Giffnock;NULL;NULL;United Kingdom;Europe
+610;East Riding of Yorkshire;NULL;Unitary authority;EY;Beverley;NULL;NULL;United Kingdom;Europe
+611;East Sussex;NULL;Administrative county;ES;Lewes;NULL;NULL;United Kingdom;Europe
+612;Edinburgh;NULL;Unitary district (city);EB;Edinburgh;NULL;NULL;United Kingdom;Europe
+613;Eilean Siar;NULL;Island area;WI;Stornoway;NULL;NULL;United Kingdom;Europe
+614;Essex;NULL;Administrative county;EX;Chelmsford;NULL;NULL;United Kingdom;Europe
+615;Falkirk;NULL;Unitary district;FK;Falkirk;NULL;NULL;United Kingdom;Europe
+616;Fermanagh;NULL;District;FE;Enniskillen;NULL;NULL;United Kingdom;Europe
+617;Fife;NULL;Unitary district;FI;Glenrothes;NULL;NULL;United Kingdom;Europe
+618;Flintshire;NULL;Unitary authority (Wales);FL;Mold;NULL;NULL;United Kingdom;Europe
+619;Gateshead;NULL;Metropolitan borough;GH;Gateshead;NULL;NULL;United Kingdom;Europe
+620;Glasgow;NULL;Unitary district (city);GG;Glasgow;NULL;NULL;United Kingdom;Europe
+621;Gloucestershire;NULL;Administrative county;GC;Gloucester;NULL;NULL;United Kingdom;Europe
+622;London;NULL;Region;GL;London;NULL;NULL;United Kingdom;Europe
+623;Gwynedd;NULL;Unitary authority (Wales);GD;Caernarfon;NULL;NULL;United Kingdom;Europe
+624;Halton;NULL;Unitary authority;HL;Widnes;NULL;NULL;United Kingdom;Europe
+625;Hampshire;NULL;Administrative county;HA;Winchester;NULL;NULL;United Kingdom;Europe
+626;Hartlepool;NULL;Unitary authority;HP;Hartlepool;NULL;NULL;United Kingdom;Europe
+627;Herefordshire;NULL;Unitary authority (county);HE;Hereford;NULL;NULL;United Kingdom;Europe
+628;Hertfordshire;NULL;Administrative county;HT;Hertford;NULL;NULL;United Kingdom;Europe
+629;Highland;NULL;Unitary district;HI;Inverness;NULL;NULL;United Kingdom;Europe
+630;Inverclyde;NULL;Unitary district;IC;Greenock;NULL;NULL;United Kingdom;Europe
+631;Isle of Wight;NULL;Unitary authority;IW;Newport;NULL;NULL;United Kingdom;Europe
+632;Isles of Scilly;NULL;Unitary authority;IS;Hugh Town;NULL;NULL;United Kingdom;Europe
+633;Kent;NULL;Administrative county;KE;Maidstone;NULL;NULL;United Kingdom;Europe
+634;Kingston upon Hull;NULL;Unitary authority (city);KH;Kingston-upon-Hull;NULL;NULL;United Kingdom;Europe
+635;Kirklees;NULL;Metropolitan borough;KK;Huddersfield;NULL;NULL;United Kingdom;Europe
+636;Knowsley;NULL;Metropolitan borough;KN;Huyton;NULL;NULL;United Kingdom;Europe
+637;Lancashire;NULL;Administrative county;LA;Preston;NULL;NULL;United Kingdom;Europe
+638;Larne;NULL;District;LR;Larne;NULL;NULL;United Kingdom;Europe
+639;Leeds;NULL;Metropolitan borough (city);LS;Leeds;NULL;NULL;United Kingdom;Europe
+640;Leicester;NULL;Unitary authority (city);LC;Leicester;NULL;NULL;United Kingdom;Europe
+641;Leicestershire;NULL;Administrative county;LE;Leicester;NULL;NULL;United Kingdom;Europe
+642;Limavady;NULL;District;LM;Limavady;NULL;NULL;United Kingdom;Europe
+643;Lincolnshire;NULL;Administrative county;LI;Lincoln;NULL;NULL;United Kingdom;Europe
+644;Lisburn;NULL;District;LB;Lisburn;NULL;NULL;United Kingdom;Europe
+645;Liverpool;NULL;Metropolitan borough (city);LV;Liverpool;NULL;NULL;United Kingdom;Europe
+646;Luton;NULL;Unitary authority;LU;Luton;NULL;NULL;United Kingdom;Europe
+647;Magherafelt;NULL;District;MF;Magherafelt;NULL;NULL;United Kingdom;Europe
+648;Manchester;NULL;Metropolitan borough (city);MN;Manchester;NULL;NULL;United Kingdom;Europe
+649;Medway;NULL;Unitary authority;MW;Strood;NULL;NULL;United Kingdom;Europe
+650;Merthyr Tydfil;NULL;Unitary authority (Wales);MT;Merthyr Tydfil;NULL;NULL;United Kingdom;Europe
+651;Middlesbrough;NULL;Unitary authority;MB;Middlesbrough;NULL;NULL;United Kingdom;Europe
+652;Midlothian;NULL;Unitary district;ML;Dalkeith;NULL;NULL;United Kingdom;Europe
+653;Milton Keynes;NULL;Unitary authority;MK;Milton Keynes;NULL;NULL;United Kingdom;Europe
+654;Monmouthshire;NULL;Unitary authority (Wales);MM;Cwmbran;NULL;NULL;United Kingdom;Europe
+655;Moray;NULL;Unitary district;MO;Elgin;NULL;NULL;United Kingdom;Europe
+656;Moyle;NULL;District;MY;Ballycastle;NULL;NULL;United Kingdom;Europe
+657;Neath Port Talbot;NULL;Unitary authority (Wales);NP;Port Talbot;NULL;NULL;United Kingdom;Europe
+658;Newcastle upon Tyne;NULL;Metropolitan borough (city);NU;Newcastle-upon-Tyne;NULL;NULL;United Kingdom;Europe
+659;Newport;NULL;Unitary authority (Wales);NO;Newport;NULL;NULL;United Kingdom;Europe
+660;Newry and Mourne;NULL;District;NM;Newry;NULL;NULL;United Kingdom;Europe
+661;Newtownabbey;NULL;District;NW;Newtownabbey;NULL;NULL;United Kingdom;Europe
+662;Norfolk;NULL;Administrative county;NF;Norwich;NULL;NULL;United Kingdom;Europe
+663;Northamptonshire;NULL;Administrative county;NA;Northampton;NULL;NULL;United Kingdom;Europe
+664;North Ayrshire;NULL;Unitary district;NR;Irvine;NULL;NULL;United Kingdom;Europe
+665;North Down;NULL;District;ND;Bangor;NULL;NULL;United Kingdom;Europe
+666;North East Lincolnshire;NULL;Unitary authority;NE;Grimsby;NULL;NULL;United Kingdom;Europe
+667;North Lanarkshire;NULL;Unitary district;NN;Motherwell;NULL;NULL;United Kingdom;Europe
+668;North Lincolnshire;NULL;Unitary authority;NL;Scunthorpe;NULL;NULL;United Kingdom;Europe
+669;North Somerset;NULL;Unitary authority;NS;Weston-super-Mare;NULL;NULL;United Kingdom;Europe
+670;North Tyneside;NULL;Metropolitan borough;NI;Wallsend;NULL;NULL;United Kingdom;Europe
+671;Northumberland;NULL;Administrative county;NB;Morpeth;NULL;NULL;United Kingdom;Europe
+672;North Yorkshire;NULL;Administrative county;NY;Northallerton;NULL;NULL;United Kingdom;Europe
+673;Nottingham;NULL;Unitary authority (city);NG;Nottingham;NULL;NULL;United Kingdom;Europe
+674;Nottinghamshire;NULL;Administrative county;NT;Nottingham;NULL;NULL;United Kingdom;Europe
+675;Oldham;NULL;Metropolitan borough;OL;Oldham;NULL;NULL;United Kingdom;Europe
+676;Omagh;NULL;District;OM;Omagh;NULL;NULL;United Kingdom;Europe
+677;Orkney Islands;NULL;Island area;OR;Kirkwall;NULL;NULL;United Kingdom;Europe
+678;Oxfordshire;NULL;Administrative county;OX;Oxford;NULL;NULL;United Kingdom;Europe
+679;Pembrokeshire;NULL;Unitary authority (Wales);PE;Haverfordwest;NULL;NULL;United Kingdom;Europe
+680;Perthshire and Kinross;NULL;Unitary district;PK;Perth;NULL;NULL;United Kingdom;Europe
+681;Peterborough;NULL;Unitary authority;PB;Peterborough;NULL;NULL;United Kingdom;Europe
+682;Plymouth;NULL;Unitary authority (city);PM;Plymouth;NULL;NULL;United Kingdom;Europe
+683;Poole;NULL;Unitary authority;PL;Poole;NULL;NULL;United Kingdom;Europe
+684;Portsmouth;NULL;Unitary authority (city);PS;Portsmouth;NULL;NULL;United Kingdom;Europe
+685;Powys;NULL;Unitary authority (Wales);PO;Llandrindod Wells;NULL;NULL;United Kingdom;Europe
+686;Reading;NULL;Unitary authority;RG;Reading;NULL;NULL;United Kingdom;Europe
+687;Redcar and Cleveland;NULL;Unitary authority;RC;South Bank;NULL;NULL;United Kingdom;Europe
+688;Renfrewshire;NULL;Unitary district;RF;Paisley Strathclyde;NULL;NULL;United Kingdom;Europe
+689;Rhondda, Cynon, Taff;NULL;Unitary authority (Wales);RT;Tonypandy;NULL;NULL;United Kingdom;Europe
+690;Rochdale;NULL;Metropolitan borough;RD;Rochdale;NULL;NULL;United Kingdom;Europe
+691;Rotherham;NULL;Metropolitan borough;RH;Rotherham;NULL;NULL;United Kingdom;Europe
+692;Rutland;NULL;Unitary authority;RL;Oakham;NULL;NULL;United Kingdom;Europe
+693;Saint Helens;NULL;Metropolitan borough;SZ;Saint Helens;NULL;NULL;United Kingdom;Europe
+694;Salford;NULL;Metropolitan borough (city);ZF;Manchester;NULL;NULL;United Kingdom;Europe
+695;Sandwell;NULL;Metropolitan borough;ZW;Oldbury;NULL;NULL;United Kingdom;Europe
+696;Scottish Borders;NULL;Unitary district;BO;Newtown Saint Boswells;NULL;NULL;United Kingdom;Europe
+697;Sefton;NULL;Metropolitan borough;SE;Bootle, Southport;NULL;NULL;United Kingdom;Europe
+698;Sheffield;NULL;Metropolitan borough (city);SV;Sheffield;NULL;NULL;United Kingdom;Europe
+699;Shetland Islands;NULL;Island area;SH;Lerwick;NULL;NULL;United Kingdom;Europe
+700;Shropshire;NULL;Administrative county;SP;Shrewsbury;NULL;NULL;United Kingdom;Europe
+701;Slough;NULL;Unitary authority;ZL;Slough;NULL;NULL;United Kingdom;Europe
+702;Solihull;NULL;Metropolitan borough;SI;Solihull;NULL;NULL;United Kingdom;Europe
+703;Somerset;NULL;Administrative county;SM;Taunton;NULL;NULL;United Kingdom;Europe
+704;Southampton;NULL;Unitary authority (city);ZH;Southampton;NULL;NULL;United Kingdom;Europe
+705;South Ayrshire;NULL;Unitary district;SA;Ayr;NULL;NULL;United Kingdom;Europe
+706;Southend-on-Sea;NULL;Unitary authority;SS;Southend-on-Sea;NULL;NULL;United Kingdom;Europe
+707;South Gloucestershire;NULL;Unitary authority;SJ;Thornbury;NULL;NULL;United Kingdom;Europe
+708;South Lanarkshire;NULL;Unitary district;SL;Hamilton;NULL;NULL;United Kingdom;Europe
+709;South Tyneside;NULL;Metropolitan borough;SX;South Shields;NULL;NULL;United Kingdom;Europe
+710;Staffordshire;NULL;Administrative county;ST;Stafford;NULL;NULL;United Kingdom;Europe
+711;Stirling;NULL;Unitary district;ZG;Stirling;NULL;NULL;United Kingdom;Europe
+712;Stockport;NULL;Metropolitan borough;SK;Stockport;NULL;NULL;United Kingdom;Europe
+713;Stockton-on-Tees;NULL;Unitary authority;ZT;Stockton-on-Tees;NULL;NULL;United Kingdom;Europe
+714;Stoke-on-Trent;NULL;Unitary authority (city);SO;Stoke-on-Trent;NULL;NULL;United Kingdom;Europe
+715;Strabane;NULL;District;SB;Strabane;NULL;NULL;United Kingdom;Europe
+716;Suffolk;NULL;Administrative county;SF;Ipswich;NULL;NULL;United Kingdom;Europe
+717;Sunderland;NULL;Metropolitan borough (city);SD;Sunderland;NULL;NULL;United Kingdom;Europe
+718;Surrey;NULL;Administrative county;SR;Kingston upon Thames;NULL;NULL;United Kingdom;Europe
+719;Swansea;NULL;Unitary authority (Wales);SW;Swansea;NULL;NULL;United Kingdom;Europe
+720;Swindon;NULL;Unitary authority;SN;Swindon;NULL;NULL;United Kingdom;Europe
+721;Tameside;NULL;Metropolitan borough;TM;Ashton-under-Lyne;NULL;NULL;United Kingdom;Europe
+722;Telford and Wrekin;NULL;Unitary authority;TK;Telford;NULL;NULL;United Kingdom;Europe
+723;Thurrock;NULL;Unitary authority;TR;Grays;NULL;NULL;United Kingdom;Europe
+724;Torbay;NULL;Unitary authority;TB;Torquay;NULL;NULL;United Kingdom;Europe
+725;Torfaen;NULL;Unitary authority (Wales);TF;Pontypool;NULL;NULL;United Kingdom;Europe
+726;Trafford;NULL;Metropolitan borough;TD;Stretford;NULL;NULL;United Kingdom;Europe
+727;Vale of Glamorgan;NULL;Unitary authority (Wales);VG;Barry;NULL;NULL;United Kingdom;Europe
+728;Wakefield;NULL;Metropolitan borough (city);WK;Wakefield;NULL;NULL;United Kingdom;Europe
+729;Walsall;NULL;Metropolitan borough;WZ;Walsall;NULL;NULL;United Kingdom;Europe
+730;Warrington;NULL;Unitary authority;WT;Warrington;NULL;NULL;United Kingdom;Europe
+731;Warwickshire;NULL;Administrative county;WR;Warwick;NULL;NULL;United Kingdom;Europe
+732;West Berkshire;NULL;Unitary authority;WB;Newbury;NULL;NULL;United Kingdom;Europe
+733;West Dunbartonshire;NULL;Unitary district;WD;Dumbarton;NULL;NULL;United Kingdom;Europe
+734;West Lothian;NULL;Unitary district;WH;Livingston;NULL;NULL;United Kingdom;Europe
+735;West Sussex;NULL;Administrative county;WS;Chichester;NULL;NULL;United Kingdom;Europe
+736;Wigan;NULL;Metropolitan borough;WN;Wigan;NULL;NULL;United Kingdom;Europe
+737;Wiltshire;NULL;Administrative county;WL;Trowbridge;NULL;NULL;United Kingdom;Europe
+738;Windsor and Maidenhead;NULL;Unitary authority;WA;Maidenhead;NULL;NULL;United Kingdom;Europe
+739;Wirral;NULL;Metropolitan borough;WQ;Wallasey;NULL;NULL;United Kingdom;Europe
+740;Wokingham;NULL;Unitary authority;WO;Wokingham;NULL;NULL;United Kingdom;Europe
+741;Wolverhampton;NULL;Metropolitan borough;WV;Wolverhampton;NULL;NULL;United Kingdom;Europe
+742;Worcestershire;NULL;Administrative county;WC;Worcester;NULL;NULL;United Kingdom;Europe
+743;Wrexham;NULL;Unitary authority (Wales);WX;Wrexham;NULL;NULL;United Kingdom;Europe
+744;York;NULL;Unitary authority (city);YK;York;NULL;NULL;United Kingdom;Europe
+745;Alberta;NULL;province;AB;Edmonton;NULL;NULL;Canada;North America
+746;British Columbia;NULL;province;BC;Victoria;NULL;NULL;Canada;North America
+747;Manitoba;NULL;province;MB;Winnipeg;NULL;NULL;Canada;North America
+748;New Brunswick;NULL;province;NB;Fredericton;NULL;NULL;Canada;North America
+749;Newfoundland and Labrador;NULL;province;NL;St. John's;NULL;NULL;Canada;North America
+750;Northwest Territories;NULL;Area;NT;Yellowknife;NULL;NULL;Canada;North America
+751;Nova Scotia;NULL;province;NS;Halifax;NULL;NULL;Canada;North America
+752;Nunavut;NULL;Area;NU;Iqaluit;NULL;NULL;Canada;North America
+753;Ontario;NULL;province;ON;Toronto;NULL;NULL;Canada;North America
+754;Prince Edward Island;NULL;province;PE;Charlottetown;NULL;NULL;Canada;North America
+755;Québec;Quebec;province;QC;Quebec City;NULL;NULL;Canada;North America
+756;Saskatchewan;NULL;province;SK;Regina;NULL;NULL;Canada;North America
+757;Yukon Area;NULL;Area;YT;Whitehorse;NULL;NULL;Canada;North America
+758;Aguascalientes;NULL;state;AG;Aguascalientes;NULL;NULL;Mexico;North America
+759;Baja California;NULL;state;BN;Mexicali;NULL;NULL;Mexico;North America
+760;Baja California Sur;NULL;state;BS;La Paz;NULL;NULL;Mexico;North America
+761;Campeche;NULL;state;CM;Campeche;NULL;NULL;Mexico;North America
+762;Chiapas;NULL;state;CP;Tuxtla Gutiérrez;NULL;NULL;Mexico;North America
+763;Chihuahua;NULL;state;CH;Chihuahua;NULL;NULL;Mexico;North America
+764;Coahuila;NULL;state;CA;Saltillo;NULL;NULL;Mexico;North America
+765;Colima;NULL;state;CL;Colima;NULL;NULL;Mexico;North America
+766;México D.F.;NULL;federal district;DF;México;NULL;NULL;Mexico;North America
+767;Durango;NULL;state;DU;Durango;NULL;NULL;Mexico;North America
+768;Guanajuato;NULL;state;GJ;Guanajuato;NULL;NULL;Mexico;North America
+769;Guerrero;NULL;state;GR;Chilpancingo;NULL;NULL;Mexico;North America
+770;Hidalgo;NULL;state;HI;Pachuca;NULL;NULL;Mexico;North America
+771;Jalisco;NULL;state;JA;Guadalajara;NULL;NULL;Mexico;North America
+772;México;NULL;state;MX;Toluca;NULL;NULL;Mexico;North America
+773;Michoacán;NULL;state;MC;Morelia;NULL;NULL;Mexico;North America
+774;Morelos;NULL;state;MR;Cuernavaca;NULL;NULL;Mexico;North America
+775;Nayarit;NULL;state;NA;Tepic;NULL;NULL;Mexico;North America
+776;Nuevo León;NULL;state;NL;Monterrey;NULL;NULL;Mexico;North America
+777;Oaxaca;NULL;state;OA;Oaxaca;NULL;NULL;Mexico;North America
+778;Puebla;NULL;state;PU;Puebla;NULL;NULL;Mexico;North America
+779;Querétaro;NULL;state;QE;Querétaro;NULL;NULL;Mexico;North America
+780;Quintana Roo;NULL;state;QR;Chetumal;NULL;NULL;Mexico;North America
+781;San Luis Potosí;NULL;state;SL;San Luis Potosí;NULL;NULL;Mexico;North America
+782;Sinaloa;NULL;state;SI;Culiacán;NULL;NULL;Mexico;North America
+783;Sonora;NULL;state;SO;Hermosillo;NULL;NULL;Mexico;North America
+784;Tabasco;NULL;state;TB;Villahermosa;NULL;NULL;Mexico;North America
+785;Tamaulipas;NULL;state;TM;Ciudad Victoria;NULL;NULL;Mexico;North America
+786;Tlaxcala;NULL;state;TL;Tlaxcala;NULL;NULL;Mexico;North America
+787;Veracruz;NULL;state;VE;Xalapa;NULL;NULL;Mexico;North America
+788;Yucatán;NULL;state;YU;Mérida;NULL;NULL;Mexico;North America
+789;Zacatecas;NULL;state;ZA;Zacatecas;NULL;NULL;Mexico;North America
+790;Alabama;NULL;state;AL;Montgomery;Southeast;NULL;United States;North America
+791;Alaska;NULL;state;AK;Juneau;Alaska;NULL;United States;North America
+792;Arizona;NULL;state;AZ;Phoenix;Southwest;NULL;United States;North America
+793;Arkansas;NULL;state;AR;Little Rock;Southeast;NULL;United States;North America
+794;California;NULL;state;CA;Sacramento;West;NULL;United States;North America
+795;Colorado;NULL;state;CO;Denver;West;NULL;United States;North America
+796;Connecticut;NULL;state;CT;Hartford;Northeast;NULL;United States;North America
+797;Delaware;NULL;state;DE;Dover;Northeast;NULL;United States;North America
+798;District of Columbia;NULL;federal district;DC;Washington;Northeast;NULL;United States;North America
+799;Florida;NULL;state;FL;Tallahassee;Southeast;NULL;United States;North America
+800;Georgia;NULL;state;GA;Atlanta;Southeast;NULL;United States;North America
+801;Hawaii;NULL;state;HI;Honolulu;Hawaii;NULL;United States;North America
+802;Idaho;NULL;state;ID;Boise;West;NULL;United States;North America
+803;Illinois;NULL;state;IL;Springfield;Midwest;NULL;United States;North America
+804;Indiana;NULL;state;IN;Indianapolis;Midwest;NULL;United States;North America
+805;Iowa;NULL;state;IA;Des Moines;Midwest;NULL;United States;North America
+806;Kansas;NULL;state;KS;Topeka;Midwest;NULL;United States;North America
+807;Kentucky;NULL;state;KY;Frankfort;Southeast;NULL;United States;North America
+808;Louisiana;NULL;state;LA;Baton Rouge;Southeast;NULL;United States;North America
+809;Maine;NULL;state;ME;Augusta;Northeast;NULL;United States;North America
+810;Maryland;NULL;state;MD;Annapolis;Northeast;NULL;United States;North America
+811;Massachusetts;NULL;state;MA;Boston;Northeast;NULL;United States;North America
+812;Michigan;NULL;state;MI;Lansing;Midwest;NULL;United States;North America
+813;Minnesota;NULL;state;MN;Saint Paul;Midwest;NULL;United States;North America
+814;Mississippi;NULL;state;MS;Jackson;Southeast;NULL;United States;North America
+815;Missouri;NULL;state;MO;Jefferson City;Midwest;NULL;United States;North America
+816;Montana;NULL;state;MT;Helena;West;NULL;United States;North America
+817;Nebraska;NULL;state;NE;Lincoln;Midwest;NULL;United States;North America
+818;Nevada;NULL;state;NV;Carson City;West;NULL;United States;North America
+819;New Hampshire;NULL;state;NH;Concord;Northeast;NULL;United States;North America
+820;New Jersey;NULL;state;NJ;Trenton;Northeast;NULL;United States;North America
+821;New Mexico;NULL;state;NM;Santa Fe;Southwest;NULL;United States;North America
+822;New York;NULL;state;NY;Albany;Northeast;NULL;United States;North America
+823;North Carolina;NULL;state;NC;Raleigh;Southeast;NULL;United States;North America
+824;North Dakota;NULL;state;ND;Bismarck;Midwest;NULL;United States;North America
+825;Ohio;NULL;state;OH;Columbus;Midwest;NULL;United States;North America
+826;Oklahoma;NULL;state;OK;Oklahoma City;Southwest;NULL;United States;North America
+827;Oregon;NULL;state;OR;Salem;West;NULL;United States;North America
+828;Pennsylvania;NULL;state;PA;Harrisburg;Northeast;NULL;United States;North America
+829;Rhode Island;NULL;state;RI;Providence;Northeast;NULL;United States;North America
+830;South Carolina;NULL;state;SC;Columbia;Southeast;NULL;United States;North America
+831;South Dakota;NULL;state;SD;Pierre;Midwest;NULL;United States;North America
+832;Tennessee;NULL;state;TN;Nashville;Southeast;NULL;United States;North America
+833;Texas;NULL;state;TX;Austin;Southwest;NULL;United States;North America
+834;Utah;NULL;state;UT;Salt Lake City;West;NULL;United States;North America
+835;Vermont;NULL;state;VT;Montpelier;Northeast;NULL;United States;North America
+836;Virginia;NULL;state;VA;Richmond;Southeast;NULL;United States;North America
+837;Washington;NULL;state;WA;Olympia;West;NULL;United States;North America
+838;West Virginia;NULL;state;WV;Charleston;Southeast;NULL;United States;North America
+839;Wisconsin;NULL;state;WI;Madison;Midwest;NULL;United States;North America
+840;Wyoming;NULL;state;WY;Cheyenne;West;NULL;United States;North America
+841;Australian Capital Territory;NULL;territory;ACT;Canberra;NULL;NULL;Australia;Pacific
+842;New South Wales;NULL;state;NSW;Sydney;NULL;NULL;Australia;Pacific
+843;Northern Territory;NULL;territory;NT;Darwin;NULL;NULL;Australia;Pacific
+844;Queensland;NULL;state;QLD;Brisbane;NULL;NULL;Australia;Pacific
+845;South Australia;NULL;state;SA;Adelaide;NULL;NULL;Australia;Pacific
+846;Tasmania;NULL;state;TAS;Hobart;NULL;NULL;Australia;Pacific
+847;Victoria;NULL;state;VIC;Melbourne;NULL;NULL;Australia;Pacific
+848;Western Australia;NULL;state;WA;Perth;NULL;NULL;Australia;Pacific
+849;Ashmore and Cartier Islands;NULL;territory;AS;Darwin;NULL;NULL;Australia;Pacific
+850;Coral Sea Islands Area;NULL;territory;CR;Kingston;NULL;NULL;Australia;Pacific
+851;Aichi;NULL;prefecture;AI;Nagoya;Chubu;NULL;Japan;Pacific
+852;Akita;NULL;prefecture;AK;Akita;Tohoku;NULL;Japan;Pacific
+853;Aomori;NULL;prefecture;AO;Aomori;Tohoku;NULL;Japan;Pacific
+854;Chiba;NULL;prefecture;CH;Chiba;Kanto;NULL;Japan;Pacific
+855;Ehime;NULL;prefecture;EH;Matsuyama;Shikoku;NULL;Japan;Pacific
+856;Fukui;NULL;prefecture;FI;Fukui;Chubu;NULL;Japan;Pacific
+857;Fukuoka;NULL;prefecture;FO;Fukuoka;Kyushu;NULL;Japan;Pacific
+858;Fukushima;NULL;prefecture;FS;Fukushima;Tohoku;NULL;Japan;Pacific
+859;Gifu;NULL;prefecture;GF;Gifu;Chubu;NULL;Japan;Pacific
+860;Gumma;NULL;prefecture;GM;Maebashi;Kanto;NULL;Japan;Pacific
+861;Hiroshima;NULL;prefecture;HS;Hiroshima;Chugoku;NULL;Japan;Pacific
+862;Hokkaido;NULL;Area;HK;Sapporo;Hokkaido;NULL;Japan;Pacific
+863;Hyogo;NULL;prefecture;HG;Kobe;Kinki;NULL;Japan;Pacific
+864;Ibaraki;NULL;prefecture;IB;Mito;Kanto;NULL;Japan;Pacific
+865;Ishikawa;NULL;prefecture;IS;Kanazawa;Chubu;NULL;Japan;Pacific
+866;Iwate;NULL;prefecture;IW;Morioka;Tohoku;NULL;Japan;Pacific
+867;Kagawa;NULL;prefecture;KG;Takamatsu;Shikoku;NULL;Japan;Pacific
+868;Kagoshima;NULL;prefecture;KS;Kagoshima;Kyushu;NULL;Japan;Pacific
+869;Kanagawa;NULL;prefecture;KN;Yokohama;Kanto;NULL;Japan;Pacific
+870;Kochi;NULL;prefecture;KC;Kochi;Shikoku;NULL;Japan;Pacific
+871;Kumamoto;NULL;prefecture;KM;Kumamoto;Kyushu;NULL;Japan;Pacific
+872;Kyoto;NULL;urban prefecture;KY;Kyoto;Kinki;NULL;Japan;Pacific
+873;Mie;NULL;prefecture;ME;Tsu;Kinki;NULL;Japan;Pacific
+874;Miyagi;NULL;prefecture;MG;Sendai;Tohoku;NULL;Japan;Pacific
+875;Miyazaki;NULL;prefecture;MZ;Miyazaki;Kyushu;NULL;Japan;Pacific
+876;Nagano;NULL;prefecture;NN;Nagano;Chubu;NULL;Japan;Pacific
+877;Nagasaki;NULL;prefecture;NS;Nagasaki;Kyushu;NULL;Japan;Pacific
+878;Nara;NULL;prefecture;NR;Nara;Kinki;NULL;Japan;Pacific
+879;Niigata;NULL;prefecture;NI;Niigata;Chubu;NULL;Japan;Pacific
+880;Oita;NULL;prefecture;OT;Oita;Kyushu;NULL;Japan;Pacific
+881;Okayama;NULL;prefecture;OY;Okayama;Chugoku;NULL;Japan;Pacific
+882;Okinawa;NULL;prefecture;ON;Naha;Ryukyu;NULL;Japan;Pacific
+883;Osaka;NULL;urban prefecture;OS;Osaka;Kinki;NULL;Japan;Pacific
+884;Saga;NULL;prefecture;SG;Saga;Kyushu;NULL;Japan;Pacific
+885;Saitama;NULL;prefecture;ST;Saitama;Kanto;NULL;Japan;Pacific
+886;Shiga;NULL;prefecture;SH;Otsu;Kinki;NULL;Japan;Pacific
+887;Shimane;NULL;prefecture;SM;Matsue;Chugoku;NULL;Japan;Pacific
+888;Shizuoka;NULL;prefecture;SZ;Shizuoka;Chubu;NULL;Japan;Pacific
+889;Tochigi;NULL;prefecture;TC;Utsunomiya;Kanto;NULL;Japan;Pacific
+890;Tokushima;NULL;prefecture;TS;Tokushima;Shikoku;NULL;Japan;Pacific
+891;Tokyo;NULL;metropolis;TK;Tokyo;Kanto;NULL;Japan;Pacific
+892;Tottori;NULL;prefecture;TT;Tottori;Chugoku;NULL;Japan;Pacific
+893;Toyama;NULL;prefecture;TY;Toyama;Chubu;NULL;Japan;Pacific
+894;Wakayama;NULL;prefecture;WK;Wakayama;Kinki;NULL;Japan;Pacific
+895;Yamagata;NULL;prefecture;YT;Yamagata;Tohoku;NULL;Japan;Pacific
+896;Yamaguchi;NULL;prefecture;YC;Yamaguchi;Chugoku;NULL;Japan;Pacific
+897;Yamanashi;NULL;prefecture;YN;Kofu;Chubu;NULL;Japan;Pacific
+898;Buenos Aires;NULL;federal district;DF;Buenos Aires;NULL;NULL;Argentina;South America
+899;Buenos Aires;NULL;province;BA;La Plata;NULL;NULL;Argentina;South America
+900;Catamarca;NULL;province;CT;San Fernando del Valle de Catamarca;NULL;NULL;Argentina;South America
+901;Chaco;NULL;province;CC;Resistencia;NULL;NULL;Argentina;South America
+902;Chubut;NULL;province;CH;Rawson;NULL;NULL;Argentina;South America
+903;Córdoba;NULL;province;CB;Córdoba;NULL;NULL;Argentina;South America
+904;Corrientes;NULL;province;CN;Corrientes;NULL;NULL;Argentina;South America
+905;Entre Ríos;NULL;province;ER;Paraná;NULL;NULL;Argentina;South America
+906;Formosa;NULL;province;FM;Formosa;NULL;NULL;Argentina;South America
+907;Jujuy;NULL;province;JY;San Salvador de Jujuy;NULL;NULL;Argentina;South America
+908;La Pampa;NULL;province;LP;Santa Rosa;NULL;NULL;Argentina;South America
+909;La Rioja;NULL;province;LR;La Rioja;NULL;NULL;Argentina;South America
+910;Mendoza;NULL;province;MZ;Mendoza;NULL;NULL;Argentina;South America
+911;Misiones;NULL;province;MN;Posadas;NULL;NULL;Argentina;South America
+912;Neuquén;NULL;province;NQ;Neuquén;NULL;NULL;Argentina;South America
+913;Río Negro;NULL;province;RN;Viedma;NULL;NULL;Argentina;South America
+914;Salta;NULL;province;SA;Salta;NULL;NULL;Argentina;South America
+915;San Juan;NULL;province;SJ;San Juan;NULL;NULL;Argentina;South America
+916;San Luis;NULL;province;SL;San Luis;NULL;NULL;Argentina;South America
+917;Santa Cruz;NULL;province;SC;Río Gallegos;NULL;NULL;Argentina;South America
+918;Santa Fe;NULL;province;SF;Santa Fe;NULL;NULL;Argentina;South America
+919;Santiago del Estero;NULL;province;SE;Santiago del Estero;NULL;NULL;Argentina;South America
+920;Tierra del Fuego;NULL;province;TF;Ushuaia;NULL;NULL;Argentina;South America
+921;Tucumán;NULL;province;TM;San Miguel de Tucumán;NULL;NULL;Argentina;South America
+922;Acre;NULL;state;AC;Rio Branco;Norte;NULL;Brazil;South America
+923;Alagoas;NULL;state;AL;Maceió;Nordeste;NULL;Brazil;South America
+924;Amapá;NULL;state;AP;Macapá;Norte;NULL;Brazil;South America
+925;Amazonas;NULL;state;AM;Manaus;Norte;NULL;Brazil;South America
+926;Bahia;NULL;state;BA;Salvador;Nordeste;NULL;Brazil;South America
+927;Ceará;NULL;state;CE;Fortaleza;Nordeste;NULL;Brazil;South America
+928;Distrito Federal;NULL;federal district;DF;Brasília;Centro-Oeste;NULL;Brazil;South America
+929;Espírito Santo;NULL;state;ES;Vitória;Sudeste;NULL;Brazil;South America
+930;Goiás;NULL;state;GO;Goiânia;Centro-Oeste;NULL;Brazil;South America
+931;Maranhão;NULL;state;MA;São Luís;Nordeste;NULL;Brazil;South America
+932;Mato Grosso;NULL;state;MT;Cuiabá;Centro-Oeste;NULL;Brazil;South America
+933;Mato Grosso do Sul;NULL;state;MS;Campo Grande;Centro-Oeste;NULL;Brazil;South America
+934;Minas Gerais;NULL;state;MG;Belo Horizonte;Sudeste;NULL;Brazil;South America
+935;Pará;NULL;state;PA;Belém;Norte;NULL;Brazil;South America
+936;Paraíba;NULL;state;PB;João Pessoa;Nordeste;NULL;Brazil;South America
+937;Paraná;NULL;state;PR;Curitiba;Sul;NULL;Brazil;South America
+938;Pernambuco;NULL;state;PE;Recife;Nordeste;NULL;Brazil;South America
+939;Piauí;NULL;state;PI;Teresina;Nordeste;NULL;Brazil;South America
+940;Rio de Janeiro;NULL;state;RJ;Rio de Janeiro;Sudeste;NULL;Brazil;South America
+941;Rio Grande do Norte;NULL;state;RN;Natal;Nordeste;NULL;Brazil;South America
+942;Rio Grande do Sul;NULL;state;RS;Porto Alegre;Sul;NULL;Brazil;South America
+943;Rondônia;NULL;state;RO;Porto Velho;Norte;NULL;Brazil;South America
+944;Roraima;NULL;state;RR;Boa Vista;Norte;NULL;Brazil;South America
+945;Santa Catarina;NULL;state;SC;Florianópolis;Sul;NULL;Brazil;South America
+946;São Paulo;Sao Paulo;state;SP;São Paulo;Sudeste;NULL;Brazil;South America
+947;Sergipe;NULL;state;SE;Aracaju;Nordeste;NULL;Brazil;South America
+948;Tocantins;NULL;state;TO;Palmas;Norte;NULL;Brazil;South America
+949;Amazonas;NULL;state;AM;Puerto Ayacucho;Guayana;NULL;Venezuela;South America
+950;Anzoátegui;NULL;state;AN;Barcelona;Nor-oriental;NULL;Venezuela;South America
+951;Apure;NULL;state;AP;San Fernando de Apure;Los Llanos;NULL;Venezuela;South America
+952;Aragua;NULL;state;AR;Maracay;Central;NULL;Venezuela;South America
+953;Barinas;NULL;state;BA;Barinas;Los Andes;NULL;Venezuela;South America
+954;Bolívar;NULL;state;BO;Ciudad Bolívar;Guayana;NULL;Venezuela;South America
+955;Carabobo;NULL;state;CA;Valencia;Central;NULL;Venezuela;South America
+956;Cojedes;NULL;state;CO;San Carlos;Central;NULL;Venezuela;South America
+957;Delta Amacuro;NULL;state;DA;Tucupita;Guayana;NULL;Venezuela;South America
+958;Dependencias Federales;NULL;federal dependencies;DF;NULL;Insular;NULL;Venezuela;South America
+959;Distrito Capital;NULL;capital district;DF;Caracas;Capital;NULL;Venezuela;South America
+960;Falcón;NULL;state;FA;Coro;Centro-occidental;NULL;Venezuela;South America
+961;Guárico;NULL;state;GU;San Juan De Los Morros;Llanos;NULL;Venezuela;South America
+962;Lara;NULL;state;LA;Barquisimeto;Centro-occidental;NULL;Venezuela;South America
+963;Mérida;NULL;state;ME;Mérida;Los Andes;NULL;Venezuela;South America
+964;Miranda;NULL;state;MI;Los Teques;Capital;NULL;Venezuela;South America
+965;Monagas;NULL;state;MO;Maturín;Nor-oriental;NULL;Venezuela;South America
+966;Nueva Esparta;NULL;state;NE;La Asunción;Insular;NULL;Venezuela;South America
+967;Portuguesa;NULL;state;PO;Guanare;Centro-occidental;NULL;Venezuela;South America
+968;Sucre;NULL;state;SU;Cumaná;Nor-oriental;NULL;Venezuela;South America
+969;Táchira;NULL;state;TA;San Cristóbal;Los Andes;NULL;Venezuela;South America
+970;Trujillo;NULL;state;TR;Trujillo;Los Andes;NULL;Venezuela;South America
+971;Vargas;NULL;state;VA;La Güaira;Capital;NULL;Venezuela;South America
+972;Yaracuy;NULL;state;YA;San Felipe;Centro-occidental;NULL;Venezuela;South America
+973;Zulia;NULL;state;ZU;Maracaibo;Zuliana;NULL;Venezuela;South America

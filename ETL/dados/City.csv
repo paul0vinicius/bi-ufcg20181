@@ -1,0 +1,143 @@
+CityKey;CityName;StateName;CountryName;ContinentName
+42;Salzburg;Salzburg;Austria;Europe
+17;Graz;Steiermark;Austria;Europe
+10;Bruxelles;Bruxelles;Belgium;Europe
+13;Charleroi;Hainaut;Belgium;Europe
+2;Århus;Århus;Denmark;Europe
+66;Kobenhavn;Københavns;Denmark;Europe
+22;Lyngby;Lyngby-Taarbæk;Denmark;Europe
+65;Helsinki;Etelä-Suomen;Finland;Europe
+68;Lappeenranta;Etelä-Suomen;Finland;Europe
+33;Oulu;Oulu;Finland;Europe
+49;Strasbourg;Bas-Rhin;France;Europe
+26;Marseille;Bouches-du-Rhône;France;Europe
+54;Toulouse;Haute-Garonne;France;Europe
+1;Annecy;Haute-Savoie;France;Europe
+31;Nantes;Loire-Atlantique;France;Europe
+38;Reims;Marne;France;Europe
+19;Lille;Nord;France;Europe
+23;Lyon;Rhône;France;Europe
+29;Montceau;Saône-et-Loire;France;Europe
+35;Paris;Paris;France;Europe
+57;Versailles;Yvelines;France;Europe
+25;Mannheim;Baden-Württemberg;Germany;Europe
+50;Stuttgart;Baden-Württemberg;Germany;Europe
+70;München;Bayern;Germany;Europe
+6;Berlin;Berlin;Germany;Europe
+9;Brandenburg;Brandenburg;Germany;Europe
+14;Frankfurt;Brandenburg;Germany;Europe
+64;Frankfurt a.M.;Hessen;Germany;Europe
+63;Cuxhaven;Niedersachsen;Germany;Europe
+59;Aachen;Nordrhein-Westfalen;Germany;Europe
+67;Köln;Nordrhein-Westfalen;Germany;Europe
+71;Münster;Nordrhein-Westfalen;Germany;Europe
+62;Cunewalde;Sachsen;Germany;Europe
+69;Leipzig;Sachsen;Germany;Europe
+61;Cork;Corcaigh;Ireland;Europe
+5;Bergamo;Bergamo;Italy;Europe
+36;Ravenna;Ravenna;Italy;Europe
+37;Reggio Emilia;Reggio Emilia;Italy;Europe
+41;Salerno;Salerno;Italy;Europe
+53;Torino;Torino;Italy;Europe
+73;Zaandam;Noord-Holland;Netherlands;Europe
+44;Sandvika;Akershus;Norway;Europe
+46;Stavern;Vestfold;Norway;Europe
+58;Warszawa;Mazowieckie;Poland;Europe
+20;Lisboa;Lisboa;Portugal;Europe
+34;Oviedo;Asturias;Spain;Europe
+3;Barcelona;Barcelona;Spain;Europe
+24;Madrid;Madrid;Spain;Europe
+45;Sevilla;Madrid;Spain;Europe
+48;Stockholm;Stockholm;Sweden;Europe
+21;Luleå;Norrbotten;Sweden;Europe
+16;Göteborg;Västra Götaland;Sweden;Europe
+8;Bräcke;Jämtland;Sweden;Europe
+7;Bern;Bern;Switzerland;Europe
+15;Genève;Geneva;Switzerland;Europe
+109;London;London;United Kingdom;Europe
+95;Cowes;Isle of Wight;United Kingdom;Europe
+111;Manchester;Manchester;United Kingdom;Europe
+55;Tsawassen;British Columbia;Canada;North America
+56;Vancouver;British Columbia;Canada;North America
+30;Montréal;Québec;Canada;North America
+47;Ste-Hyacinthe;Québec;Canada;North America
+28;México D.F.;México D.F.;Mexico;North America
+75;Anchorage;Alaska;United States;North America
+121;Phoenix;Arizona;United States;North America
+134;Scottsdale;Arizona;United States;North America
+83;Bentonville;Arkansas;United States;North America
+90;Campbell;California;United States;North America
+113;Menlo Park;California;United States;North America
+128;Roseville;California;United States;North America
+129;San Francisco;California;United States;North America
+130;Santa Clara;California;United States;North America
+131;Santa Cruz;California;United States;North America
+132;Santa Monica;California;United States;North America
+93;Colorado Springs;Colorado;United States;North America
+97;Denver;Colorado;United States;North America
+141;Wilton;Connecticut;United States;North America
+119;Orlando;Florida;United States;North America
+137;Tampa;Florida;United States;North America
+77;Atlanta;Georgia;United States;North America
+133;Savannah;Georgia;United States;North America
+85;Boise;Idaho;United States;North America
+92;Chicago;Illinois;United States;North America
+105;Hoffman Estates;Illinois;United States;North America
+80;Bedford;Indiana;United States;North America
+81;Bellevue;Kentucky;United States;North America
+110;Louisville;Kentucky;United States;North America
+112;Melville;Louisiana;United States;North America
+116;New Orleans;Louisiana;United States;North America
+127;Rockville;Maryland;United States;North America
+86;Boston;Massachusetts;United States;North America
+87;Braintree;Massachusetts;United States;North America
+89;Cambridge;Massachusetts;United States;North America
+140;Westboro;Massachusetts;United States;North America
+76;Ann Arbor;Michigan;United States;North America
+84;Bloomfield Hills;Michigan;United States;North America
+136;Southfield;Michigan;United States;North America
+138;Troy;Michigan;United States;North America
+114;Minneapolis;Minnesota;United States;North America
+88;Butte;Montana;United States;North America
+123;Portsmouth;New Hampshire;United States;North America
+98;Edison;New Jersey;United States;North America
+115;Morristown;New Jersey;United States;North America
+118;Newark;New Jersey;United States;North America
+74;Albuquerque;New Mexico;United States;North America
+101;Fairport;New York;United States;North America
+117;New York;New York;United States;North America
+91;Cary;North Carolina;United States;North America
+104;Greensboro;North Carolina;United States;North America
+79;Beachwood;Ohio;United States;North America
+102;Findlay;Ohio;United States;North America
+106;Hollis;Oklahoma;United States;North America
+82;Bend;Oregon;United States;North America
+99;Elgin;Oregon;United States;North America
+100;Eugene;Oregon;United States;North America
+122;Portland;Oregon;United States;North America
+120;Philadelphia;Pennsylvania;United States;North America
+124;Providence;Rhode Island;United States;North America
+94;Columbia;South Carolina;United States;North America
+103;Georgetown;South Carolina;United States;North America
+78;Austin;Texas;United States;North America
+96;Dallas;Texas;United States;North America
+107;Kirkland;Washington;United States;North America
+126;Redmond;Washington;United States;North America
+135;Seattle;Washington;United States;North America
+139;Walla Walla;Washington;United States;North America
+125;Racine;Wisconsin;United States;North America
+108;Lander;Wyoming;United States;North America
+51;Sydney;New South Wales;Australia;Pacific
+27;Melbourne;Victoria;Australia;Pacific
+32;Osaka;Osaka;Japan;Pacific
+52;Tokyo;Tokyo;Japan;Pacific
+11;Buenos Aires;Buenos Aires;Argentina;South America
+39;Resende;Rio de Janeiro;Brazil;South America
+40;Rio de Janeiro;Rio de Janeiro;Brazil;South America
+60;Campinas;São Paulo;Brazil;South America
+72;Sao Paulo;São Paulo;Brazil;South America
+12;Caracas;Distrito Capital;Venezuela;South America
+4;Barquisimeto;Lara;Venezuela;South America
+18;I. de Margarita;Nueva Esparta;Venezuela;South America
+43;San Cristóbal;Táchira;Venezuela;South America
+142;Singapore;NULL;Singapore;Pacific
