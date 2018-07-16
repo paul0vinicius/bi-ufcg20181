@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-DR21170</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAn+kEljHQrUugnNtuMuhs9AAAAAACAAAAAAAQZgAAAAEAACAAAACHT1Hax9xcCZN4MUfGiUWiieJ8PI15lT5MWvd82fixfAAAAAAOgAAAAAIAACAAAADEB6EmKcv2pdzHYUtS6iZuYkVcVHtfr3PJ83l4gp0+TZAAAAA7FvBzlcZlpbjrD34RvZJuQhqHBbivL4ApDuUHuLp2ij5cIT3uNOQFdrZ6DGZsxMgBU/ympalOqInQZoc5Wn29IOKvrI8jV7rcbBw1xd+FEOEOEZAdT2cKf/SXcrw2dFN7Rl7svdcroKJAIaJozdRwQc0CWpCDOyTFu2AaAVbO/xEaInv0V3mvO+8kehelu91AAAAA5PPR3KFz5Y/ecPaY8//P2Jv2NLjDKUkEx3NAYBYUmfc5nm0rs7E1U3NCrfL+ohv0Yws+tNCHfdXGJCayb2ulUg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbxGL99W0f0u/upk+smXJEgAAAAACAAAAAAAQZgAAAAEAACAAAADaD02por2JmqFor949WbPhy/1dMtBl4yA3z5ZDtahzXAAAAAAOgAAAAAIAACAAAACcdjkGwGesjMV2hwkGGZWjehD6XSewpsledMGrL2x1RJAAAAA4XrarEoEao7z6UkYBvFu2eSODnjv+1+Y6x1nTPVk5KVHeKKFxR0hjvGR0ILChBQensK/mPkYVy/uo3nyOg/Nm5S98KDsy4k9MitlKmRtF93xwO6U5tePDCRdUHiW8Cjdocsmqhzw3o+XFvYKI0/agReiVF3bGZ2piTCg5PCnBVYkGi/JC2YNy7nCwgIsWXudAAAAAlUdZyrlGJr85snqJZPEkUlV/KLdh0HWlgm0/irJ44rj47DuQdUW4fqdla7kZndmP7GphSuUjYKehydxMJTO/kg==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">35</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">44</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{4094733E-9517-48B0-B148-0A703FAC6716}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{8F6C0C91-5B85-4D18-AB76-1968F77F5D15}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -108,7 +108,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\vinic\Desktop\SAD_2018\Country.csv</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\Country.csv</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -290,7 +290,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\vinic\Desktop\SAD_2018\City.csv</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\City.csv</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -472,7 +472,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\vinic\Desktop\SAD_2018\State.csv</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\State.csv</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -609,7 +609,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\vinic\Desktop\SAD_2018\Time.xls;Extended Properties="EXCEL 8.0;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\Time.xls;Extended Properties="EXCEL 8.0;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -624,7 +624,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\vinic\Desktop\SAD_2018\Time.xls</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\Time.xls</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -697,7 +697,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\vinic\Desktop\SAD_2018\Time.xls</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\Time.xls</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -726,7 +726,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Data Source=VINÍCIUS\SQLEXPRESS;Initial Catalog=Northwind;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Data Source=localhost;Initial Catalog=Northwind;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -785,7 +785,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">VINÍCIUS\SQLEXPRESS</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">localhost</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -814,7 +814,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Data Source=VINÍCIUS\SQLEXPRESS;Initial Catalog=NorthwindDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Data Source=localhost;Initial Catalog=NorthwindDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -873,7 +873,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">VINÍCIUS\SQLEXPRESS</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">localhost</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>

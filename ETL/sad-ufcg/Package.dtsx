@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="42"
-  DTS:VersionGUID="{6F6B88C6-E5AC-4715-8E79-8CDDA6B6C931}">
+  DTS:VersionBuild="44"
+  DTS:VersionGUID="{8F6C0C91-5B85-4D18-AB76-1968F77F5D15}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -30,7 +30,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\vinic\Desktop\SAD_2018\Country.csv">
+          DTS:ConnectionString="C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\Country.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -39,7 +39,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryKey"
-              DTS:DTSID="{D35DFDEE-783A-4817-B86A-DCC3C8C05CDA}"
+              DTS:DTSID="{4D74C29A-A1CE-4F45-BCD9-CFD52ECFF121}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -48,7 +48,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryName"
-              DTS:DTSID="{FA2C6293-EF51-40A3-8F57-1EC3D10F9F84}"
+              DTS:DTSID="{771356B8-3F2B-4E7F-8704-B4C8955F19EC}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -57,7 +57,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryCode"
-              DTS:DTSID="{EB2C01C6-4B63-4CB1-ADAE-7C1C941A9780}"
+              DTS:DTSID="{EB6BF358-C2FD-418C-9264-E75E943DBCF4}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -66,7 +66,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryCapital"
-              DTS:DTSID="{675680F5-1245-418A-8BC9-E93207556F6B}"
+              DTS:DTSID="{148546C5-9BE8-4A33-B19F-879739191B07}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -75,7 +75,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Population"
-              DTS:DTSID="{C38E2C41-49EA-4547-850E-82FC8FE61EB6}"
+              DTS:DTSID="{000E157F-3D97-4A0D-9507-5B3B6A2C86D5}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -84,7 +84,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Subdivision"
-              DTS:DTSID="{E9235529-793A-4571-901A-14D518E74878}"
+              DTS:DTSID="{C7A94034-12DE-45DD-AC7B-387E3823CA15}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -93,7 +93,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ContinentName"
-              DTS:DTSID="{D48F4DAC-D34A-47BD-9AE6-7627C8996436}"
+              DTS:DTSID="{57153E4C-C5D1-4410-9420-5BB111516469}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -113,7 +113,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\vinic\Desktop\SAD_2018\City.csv">
+          DTS:ConnectionString="C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\City.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -122,7 +122,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CityKey"
-              DTS:DTSID="{A16A4BA7-90E4-4263-AA47-55310D2F8CC1}"
+              DTS:DTSID="{9BB75151-3FFF-420D-8922-A7EAD8E72382}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -131,7 +131,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CityName"
-              DTS:DTSID="{EAB0B819-BBBE-4FF4-BCE8-A7CD22ABB938}"
+              DTS:DTSID="{FBFB8F11-F7BE-423A-A036-93E24DDC4875}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -140,7 +140,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateName"
-              DTS:DTSID="{03603324-3C04-4AB3-AFDB-34BB07C64CF8}"
+              DTS:DTSID="{02633978-62DF-4CE5-BDF4-C5991D44217F}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -149,7 +149,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryName"
-              DTS:DTSID="{4A929A5F-9B52-4F65-9E22-C959088091DC}"
+              DTS:DTSID="{E70926F7-784C-4D2B-BA09-E3DFF0DA2A50}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -158,7 +158,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ContinentName"
-              DTS:DTSID="{3EC20F2D-465A-4F98-B0DC-A50C67BF1AE9}"
+              DTS:DTSID="{A9AA241C-6A09-4D5F-882F-503163A570D9}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -178,7 +178,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\vinic\Desktop\SAD_2018\State.csv">
+          DTS:ConnectionString="C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\State.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -187,7 +187,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateKey"
-              DTS:DTSID="{27D24DF7-7344-4E65-808B-84448D0D6861}"
+              DTS:DTSID="{CAED4224-47B7-402F-AD8B-8D5C81270A8B}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -196,7 +196,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateName"
-              DTS:DTSID="{C8E54418-C734-4FA1-8B6A-1D8E93CEB8A4}"
+              DTS:DTSID="{914DDF4B-A0F5-4CB8-8C67-60650A6E6633}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -205,7 +205,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="EnglishStateName"
-              DTS:DTSID="{DD0567A4-50D3-4389-8935-A2D7691CABD9}"
+              DTS:DTSID="{E30D45F4-BF9B-4F32-9DE8-8ECC02E1068E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -214,7 +214,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateType"
-              DTS:DTSID="{AF5528E7-B5AC-4407-9A58-76ABD190C868}"
+              DTS:DTSID="{D8FB0748-7296-4BE4-B296-4EA6EEED77AA}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -223,7 +223,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateCode"
-              DTS:DTSID="{4ED90CA2-68A9-493C-B372-AD51D7929378}"
+              DTS:DTSID="{9F5C19BC-66DA-413D-8ABC-D5B896D7D317}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -232,7 +232,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateCapital"
-              DTS:DTSID="{44C20A35-062B-461D-A593-1A0BD2B29B30}"
+              DTS:DTSID="{706EE14D-01B9-4F7C-B878-EE7FC34E3DE8}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -241,7 +241,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="RegionName"
-              DTS:DTSID="{3023B972-0B06-4ED8-90BE-A3C293E8A510}"
+              DTS:DTSID="{19BFE156-BB06-4B1B-966E-B16846B8A31B}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -250,7 +250,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="RegionCode"
-              DTS:DTSID="{43B84ACF-C0B9-4CB2-8A87-35205545335D}"
+              DTS:DTSID="{F0207D0C-78F0-43F8-97FF-692F188C3110}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -259,7 +259,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryName"
-              DTS:DTSID="{BA0C564D-5710-40D8-A5E9-ABFDFB0B60A0}"
+              DTS:DTSID="{79A6D6A7-E503-47CD-BCBB-DD60DEE58A3E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -268,7 +268,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ContinentName"
-              DTS:DTSID="{1FD59CCD-2AFA-4A23-846A-884B24A94D79}"
+              DTS:DTSID="{A2011A6D-402B-4D51-9FC7-E62A46FB8743}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -281,7 +281,7 @@
       DTS:ObjectName="Gerenciador de Conexões do Excel">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\vinic\Desktop\SAD_2018\Time.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Luiz Fonseca\bi-ufcg20181\ETL\dados\Time.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -291,7 +291,7 @@
       DTS:ObjectName="localhost.Northwind">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=VINÍCIUS\SQLEXPRESS;Initial Catalog=Northwind;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=localhost;Initial Catalog=Northwind;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -301,7 +301,7 @@
       DTS:ObjectName="localhost.northwind_DW">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=VINÍCIUS\SQLEXPRESS;Initial Catalog=NorthwindDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=localhost;Initial Catalog=NorthwindDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
