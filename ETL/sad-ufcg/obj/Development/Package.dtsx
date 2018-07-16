@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="30"
-  DTS:VersionGUID="{6E39E852-638D-4116-9927-EACD2800CD95}">
+  DTS:VersionBuild="42"
+  DTS:VersionGUID="{6F6B88C6-E5AC-4715-8E79-8CDDA6B6C931}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -30,7 +30,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Luiz Fonseca\source\repos\sad-ufcg\dados\Country.csv">
+          DTS:ConnectionString="C:\Users\vinic\Desktop\SAD_2018\Country.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -39,7 +39,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryKey"
-              DTS:DTSID="{7BB94F71-EB6E-4C89-8F08-CD33D69B491A}"
+              DTS:DTSID="{D35DFDEE-783A-4817-B86A-DCC3C8C05CDA}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -48,7 +48,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryName"
-              DTS:DTSID="{5482BC7E-43FC-4B21-A5A4-338F6EB3FBA6}"
+              DTS:DTSID="{FA2C6293-EF51-40A3-8F57-1EC3D10F9F84}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -57,7 +57,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryCode"
-              DTS:DTSID="{77108155-D21B-43F4-B83B-7B7722C3451C}"
+              DTS:DTSID="{EB2C01C6-4B63-4CB1-ADAE-7C1C941A9780}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -66,7 +66,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryCapital"
-              DTS:DTSID="{ECCC4FB2-7691-4557-8833-891368453870}"
+              DTS:DTSID="{675680F5-1245-418A-8BC9-E93207556F6B}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -75,7 +75,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Population"
-              DTS:DTSID="{EBF3E29E-822A-4F89-AC45-AFEF15FE0674}"
+              DTS:DTSID="{C38E2C41-49EA-4547-850E-82FC8FE61EB6}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -84,7 +84,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Subdivision"
-              DTS:DTSID="{D2F646F7-923A-4866-9452-B056CDA572ED}"
+              DTS:DTSID="{E9235529-793A-4571-901A-14D518E74878}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -93,7 +93,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ContinentName"
-              DTS:DTSID="{82928F33-822B-42FE-8D6C-B99958F00F82}"
+              DTS:DTSID="{D48F4DAC-D34A-47BD-9AE6-7627C8996436}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -113,7 +113,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Luiz Fonseca\source\repos\sad-ufcg\dados\City.csv">
+          DTS:ConnectionString="C:\Users\vinic\Desktop\SAD_2018\City.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -122,7 +122,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CityKey"
-              DTS:DTSID="{2E8D8FF5-1108-4D10-A7BD-9A2DB1F86A5D}"
+              DTS:DTSID="{A16A4BA7-90E4-4263-AA47-55310D2F8CC1}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -131,7 +131,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CityName"
-              DTS:DTSID="{89BF305D-9763-4BD4-ACDA-6AB69E4A9A60}"
+              DTS:DTSID="{EAB0B819-BBBE-4FF4-BCE8-A7CD22ABB938}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -140,7 +140,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateName"
-              DTS:DTSID="{2ED7CA08-2D87-4973-B883-6810B153F678}"
+              DTS:DTSID="{03603324-3C04-4AB3-AFDB-34BB07C64CF8}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -149,7 +149,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryName"
-              DTS:DTSID="{8BBC543E-93B0-463D-A1C4-E929DB537271}"
+              DTS:DTSID="{4A929A5F-9B52-4F65-9E22-C959088091DC}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -158,7 +158,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ContinentName"
-              DTS:DTSID="{2A67570E-FA4F-40E5-8F5C-7D46582C9264}"
+              DTS:DTSID="{3EC20F2D-465A-4F98-B0DC-A50C67BF1AE9}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -178,7 +178,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Luiz Fonseca\source\repos\sad-ufcg\dados\State.csv">
+          DTS:ConnectionString="C:\Users\vinic\Desktop\SAD_2018\State.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -187,7 +187,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateKey"
-              DTS:DTSID="{0A92CEE4-1D8B-4F58-85DF-001555CA34E8}"
+              DTS:DTSID="{27D24DF7-7344-4E65-808B-84448D0D6861}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -196,7 +196,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateName"
-              DTS:DTSID="{CB36C1FA-4731-48DA-AB79-CC7B37D673BA}"
+              DTS:DTSID="{C8E54418-C734-4FA1-8B6A-1D8E93CEB8A4}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -205,7 +205,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="EnglishStateName"
-              DTS:DTSID="{2124A71B-6B96-4695-8A55-B56C51B07D7F}"
+              DTS:DTSID="{DD0567A4-50D3-4389-8935-A2D7691CABD9}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -214,7 +214,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateType"
-              DTS:DTSID="{CA239F4A-A77D-4FF6-BE5A-DB969E609466}"
+              DTS:DTSID="{AF5528E7-B5AC-4407-9A58-76ABD190C868}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -223,7 +223,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateCode"
-              DTS:DTSID="{95E6B590-4790-409F-9A9D-18966E378DD8}"
+              DTS:DTSID="{4ED90CA2-68A9-493C-B372-AD51D7929378}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -232,7 +232,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="StateCapital"
-              DTS:DTSID="{6E8586C2-4A30-4E76-83D7-D2D5BBF8A4C0}"
+              DTS:DTSID="{44C20A35-062B-461D-A593-1A0BD2B29B30}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -241,7 +241,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="RegionName"
-              DTS:DTSID="{C92130A1-2BCD-4C44-B4EE-7DD4FF20F41F}"
+              DTS:DTSID="{3023B972-0B06-4ED8-90BE-A3C293E8A510}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -250,7 +250,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="RegionCode"
-              DTS:DTSID="{539191ED-8094-4C05-946E-A49CA3CFD5F1}"
+              DTS:DTSID="{43B84ACF-C0B9-4CB2-8A87-35205545335D}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -259,7 +259,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryName"
-              DTS:DTSID="{C187F638-67EA-487C-81D8-1CAFA46F3ED0}"
+              DTS:DTSID="{BA0C564D-5710-40D8-A5E9-ABFDFB0B60A0}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -268,7 +268,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ContinentName"
-              DTS:DTSID="{30C1FAF8-1208-469C-86B0-1372ECF53807}"
+              DTS:DTSID="{1FD59CCD-2AFA-4A23-846A-884B24A94D79}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -281,7 +281,7 @@
       DTS:ObjectName="Gerenciador de Conexões do Excel">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Luiz Fonseca\source\repos\sad-ufcg\dados\Time.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\vinic\Desktop\SAD_2018\Time.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -291,7 +291,7 @@
       DTS:ObjectName="localhost.Northwind">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=localhost;Initial Catalog=Northwind;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=VINÍCIUS\SQLEXPRESS;Initial Catalog=Northwind;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -301,7 +301,7 @@
       DTS:ObjectName="localhost.northwind_DW">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=localhost;Initial Catalog=NorthwindDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=VINÍCIUS\SQLEXPRESS;Initial Catalog=NorthwindDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -1307,10 +1307,6 @@ where [refTable].[StateName] = ?</property>
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Extração de dados de Costumer\Costumer (DW).Inputs[Entrada de Destino OLE DB].ExternalColumns[CostumerKey]"
-                      dataType="i4"
-                      name="CostumerKey" />
                     <externalMetadataColumn
                       refId="Package\Extração de dados de Costumer\Costumer (DW).Inputs[Entrada de Destino OLE DB].ExternalColumns[CostumerID]"
                       dataType="wstr"
@@ -3110,7 +3106,7 @@ where [refTable].[CityName] = ?</property>
                   dataType="System.Int32"
                   description="Especifica o modo usado para acessar o banco de dados."
                   name="AccessMode"
-                  typeConverter="AccessMode">3</property>
+                  typeConverter="AccessMode">0</property>
                 <property
                   dataType="System.Boolean"
                   description="Indica se os valores fornecidos para colunas de identidade serão copiados no destino. Se false, os valores para colunas de identidade serão gerados automaticamente no destino. Aplicável apenas se o carregamento rápido estiver ativado."
@@ -3216,10 +3212,6 @@ where [refTable].[CityName] = ?</property>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Extração de dados de Excel (Time)\Time (DW).Inputs[Entrada de Destino OLE DB].ExternalColumns[TimeKey]"
-                      dataType="i4"
-                      name="TimeKey" />
-                    <externalMetadataColumn
                       refId="Package\Extração de dados de Excel (Time)\Time (DW).Inputs[Entrada de Destino OLE DB].ExternalColumns[Date]"
                       dataType="dbTimeStamp"
                       name="Date" />
@@ -3265,6 +3257,10 @@ where [refTable].[CityName] = ?</property>
                       refId="Package\Extração de dados de Excel (Time)\Time (DW).Inputs[Entrada de Destino OLE DB].ExternalColumns[WeekNbYear]"
                       dataType="i2"
                       name="WeekNbYear" />
+                    <externalMetadataColumn
+                      refId="Package\Extração de dados de Excel (Time)\Time (DW).Inputs[Entrada de Destino OLE DB].ExternalColumns[TimeKey]"
+                      dataType="i4"
+                      name="TimeKey" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -5973,23 +5969,6 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
         </pipeline>
       </DTS:ObjectData>
     </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Tarefa Executar SQL"
-      DTS:CreationName="Microsoft.ExecuteSQLTask"
-      DTS:Description="Tarefa Executar SQL"
-      DTS:DTSID="{11BA698F-701A-452E-BB9B-DA5881716F57}"
-      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Tarefa Executar SQL"
-      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017 RC1; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <SQLTask:SqlTaskData
-          SQLTask:Connection="{14F7CC99-3C67-4E40-BE8B-330CE11703AD}"
-          SQLTask:SqlStatementSource="DECLARE @DATE AS DATE&#xA;DECLARE @TIME AS NVARCHAR(5)&#xA;&#xA;SET @DATE = GETDATE() /*2017-10-11*/&#xA;SET @TIME = '08:00'&#xA;&#xA;SELECT CONVERT(DATETIME, CONVERT(VARCHAR, @DATE) + ' '+ CONVERT(VARCHAR, @TIME))&#xA;&#xA;INSERT INTO [Time]&#xA;                         (TimeKey, [Date], DayNbWeek, DayNameWeek, DayNbMonth, DayNbYear, MonthNumber, MonthName, Quarter, Semester, [Year], WeekNbYear)&#xA;VALUES        (@DATE, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
-      </DTS:ObjectData>
-    </DTS:Executable>
   </DTS:Executables>
   <DTS:PrecedenceConstraints>
     <DTS:PrecedenceConstraint
@@ -6008,14 +5987,6 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
       DTS:LogicalAnd="True"
       DTS:ObjectName="Restrição 1"
       DTS:To="Package\Extração de dados de State" />
-    <DTS:PrecedenceConstraint
-      DTS:refId="Package.PrecedenceConstraints[Restrição 10]"
-      DTS:CreationName=""
-      DTS:DTSID="{008FDA7A-2E15-4A2E-9AD1-7F88E6B3FF44}"
-      DTS:From="Package\Extração de dados de Supplier"
-      DTS:LogicalAnd="True"
-      DTS:ObjectName="Restrição 10"
-      DTS:To="Package\Tarefa Executar SQL" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Restrição 2]"
       DTS:CreationName=""
@@ -6075,8 +6046,8 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Restrição 9]"
       DTS:CreationName=""
-      DTS:DTSID="{99B25455-C048-40E2-A36A-1B1A7499E827}"
-      DTS:From="Package\Tarefa Executar SQL"
+      DTS:DTSID="{A36B0DAA-2519-4464-9D7F-196C2E24B39D}"
+      DTS:From="Package\Extração de dados de Supplier"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Restrição 9"
       DTS:To="Package\Povoamento da tabela Sales" />
@@ -6437,46 +6408,20 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="176,42"
-          Id="Package\Tarefa Executar SQL"
-          TopLeft="413,196" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Restrição 10]"
-          TopLeft="497.5,285">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,-47"
-              Start="0,0"
-              End="0,-39.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-39.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restrição 9]"
-          TopLeft="500.5,196">
+          TopLeft="497,285">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,-59"
+              EndConnector="0,-148"
               Start="0,0"
-              End="0,-51.5">
+              End="0,-140.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-51.5" />
+                    End="0,-140.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -6672,9 +6617,7 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -6732,9 +6675,7 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6872,7 +6813,7 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
     design-time-name="Package\Extração de dados de Excel (Time)">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="131,42"
           Id="Package\Extração de dados de Excel (Time)\Time (DW)"
@@ -6900,9 +6841,7 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -7134,7 +7073,9 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -7204,7 +7145,9 @@ WHERE O.OrderID = D.OrderID AND D.ProductID = P.ProductID AND O.ShippedDate IS N
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
